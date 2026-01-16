@@ -9,11 +9,10 @@ import numpy as np
 import plotly.express as px
 
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error
 from sklearn.impute import SimpleImputer
 
 # =====================================================
@@ -88,14 +87,13 @@ def load_data():
     df = pd.concat([global_df, ps4_df, xbox_df], ignore_index=True)
 
     df["year"] = pd.to_numeric(df["year"], errors="coerce")
-    df["age"] = 2021 - df["year"]
-
     df.dropna(subset=["global_sales"], inplace=True)
 
     for col in ["platform", "genre", "publisher"]:
         df[col] = df[col].fillna("Unknown")
 
     return df
+
 
 df = load_data()
 
@@ -143,40 +141,39 @@ fig2 = px.bar(
     title="Genre-wise Global Sales"
 )
 
-# Filter years between 2010 and 2020
 year_sales_filtered = year_sales[
     (year_sales["year"] >= 2010) & (year_sales["year"] <= 2020)
 ]
 
-fig3 = px.line(
-    year_sales_filtered,
-    x="year",
-    y="global_sales",
-    title="Global Sales Trend (2010–2020)",
-    markers=True
-)
-
-st.plotly_chart(fig3, use_container_width=True)
-
-
 c1, c2 = st.columns(2)
+
 with c1:
     st.plotly_chart(fig1, use_container_width=True)
+
 with c2:
     st.plotly_chart(fig2, use_container_width=True)
 
-st.plotly_chart(fig3, use_container_width=True)
+if year_sales_filtered.empty:
+    st.warning("No sales data available between 2010 and 2020")
+else:
+    fig3 = px.line(
+        year_sales_filtered,
+        x="year",
+        y="global_sales",
+        title="Global Sales Trend (2010–2020)",
+        markers=True
+    )
+    st.plotly_chart(fig3, use_container_width=True)
 
 st.divider()
 
 # =====================================================
-# MODEL TRAINING (INTERNAL)
+# MODEL TRAINING
 # =====================================================
 
 @st.cache_resource
 def train_model(data):
 
-    # ONLY platform and genre
     X = data[["platform", "genre"]]
     y = data["global_sales"]
 
@@ -198,7 +195,7 @@ def train_model(data):
         ))
     ])
 
-    X_train, X_test, y_train, y_test = train_test_split(
+    X_train, _, y_train, _ = train_test_split(
         X, y, test_size=0.3, random_state=42
     )
 
@@ -220,12 +217,12 @@ with st.form("prediction_form"):
 
     with c1:
         u_platform = st.selectbox(
-            "Platform", sorted(df["platform"].dropna().unique())
+            "Platform", sorted(df["platform"].unique())
         )
 
     with c2:
         u_genre = st.selectbox(
-            "Genre", sorted(df["genre"].dropna().unique())
+            "Genre", sorted(df["genre"].unique())
         )
 
     submit = st.form_submit_button("🔮 Predict Sales")
