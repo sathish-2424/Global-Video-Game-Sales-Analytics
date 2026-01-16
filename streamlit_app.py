@@ -168,13 +168,9 @@ st.divider()
 @st.cache_resource
 def train_model(data):
 
-    X = data[["platform", "genre", "publisher", "age"]]
+    # ONLY platform and genre
+    X = data[["platform", "genre"]]
     y = data["global_sales"]
-
-    numeric_pipeline = Pipeline([
-        ("imputer", SimpleImputer(strategy="median")),
-        ("scaler", StandardScaler())
-    ])
 
     categorical_pipeline = Pipeline([
         ("imputer", SimpleImputer(strategy="most_frequent")),
@@ -182,8 +178,7 @@ def train_model(data):
     ])
 
     preprocessor = ColumnTransformer([
-        ("num", numeric_pipeline, ["age"]),
-        ("cat", categorical_pipeline, ["platform", "genre", "publisher"])
+        ("cat", categorical_pipeline, ["platform", "genre"])
     ])
 
     model = Pipeline([
@@ -202,9 +197,9 @@ def train_model(data):
     model.fit(X_train, y_train)
     return model
 
+
 with st.spinner("Preparing predictive model..."):
     model = train_model(df)
-
 
 # =====================================================
 # PREDICTION SECTION
@@ -216,25 +211,28 @@ with st.form("prediction_form"):
     c1, c2 = st.columns(2)
 
     with c1:
-        u_platform = st.selectbox("Platform", sorted(df["platform"].unique()))
-        u_genre = st.selectbox("Genre", sorted(df["genre"].unique()))
+        u_platform = st.selectbox(
+            "Platform", sorted(df["platform"].dropna().unique())
+        )
 
     with c2:
-        u_publisher = st.selectbox("Publisher", sorted(df["publisher"].unique()))
-        u_age = st.slider("Game Age (Years)", 0, 40, 5)
+        u_genre = st.selectbox(
+            "Genre", sorted(df["genre"].dropna().unique())
+        )
 
     submit = st.form_submit_button("🔮 Predict Sales")
 
 if submit:
     input_df = pd.DataFrame([{
         "platform": u_platform,
-        "genre": u_genre,
-        "publisher": u_publisher,
-        "age": u_age
+        "genre": u_genre
     }])
 
     prediction = model.predict(input_df)[0]
-    st.success(f"📈 Predicted Global Sales: **{prediction:.2f} Million Units**")
+
+    st.success(
+        f"📈 Predicted Global Sales: **{prediction:.2f} Million Units**"
+    )
 
 # =====================================================
 # FOOTER
