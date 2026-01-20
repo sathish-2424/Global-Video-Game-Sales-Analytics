@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales Analytics
+# 🎮 Multimedia Video Game Sales Analytics
 
 An interactive web application for analyzing and predicting video game sales data for PS4 and Xbox One platforms. This project provides comprehensive analytics, visualizations, and machine learning-based sales predictions using a Random Forest model.
 
@@ -40,18 +40,17 @@ An interactive web application for analyzing and predicting video game sales dat
 ## 📁 Project Structure
 
 ```
-Video-Game-Sales-Analytics/
+Multimedia-Video-Game-Sales-Analytics/
 │
 ├── streamlit_app.py              # Main Streamlit application
 ├── Data_Clean.ipynb              # Data cleaning and preprocessing notebook
 ├── requirements.txt              # Python dependencies
+├── README.md                      # Project documentation
 │
-├── Data Files:
-│   ├── Video_Game.csv            # Combined and cleaned video game sales data
-│   ├── PS4_GamesSales.csv        # Raw PS4 sales data
-│   └── XboxOne_GameSales.csv     # Raw Xbox One sales data
-│
-└── README.md                      # Project documentation
+└── Data Files:
+    ├── Video_Game.csv            # Combined and cleaned video game sales data
+    ├── PS4_GamesSales.csv        # Raw PS4 sales data
+    └── XboxOne_GameSales.csv     # Raw Xbox One sales data
 ```
 
 ## 🚀 Installation
@@ -65,8 +64,8 @@ Video-Game-Sales-Analytics/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Video-Game-Sales-Analytics.git
-   cd Video-Game-Sales-Analytics
+   git clone https://github.com/yourusername/Multimedia-Video-Game-Sales-Analytics.git
+   cd Multimedia-Video-Game-Sales-Analytics
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -84,6 +83,13 @@ Video-Game-Sales-Analytics/
    ```bash
    pip install -r requirements.txt
    ```
+   
+   The required packages include:
+   - `streamlit` - Web application framework
+   - `pandas` - Data manipulation and analysis
+   - `numpy` - Numerical computing
+   - `scikit-learn` - Machine learning models
+   - `plotly` - Interactive visualization library
 
 ## 💻 Usage
 
@@ -97,6 +103,12 @@ Video-Game-Sales-Analytics/
 2. **Access the dashboard**
    - The app will automatically open in your default web browser
    - If not, navigate to `http://localhost:8501`
+
+3. **Interact with the dashboard**
+   - View key performance metrics at the top
+   - Explore interactive visualizations for sales trends and comparisons
+   - Use the sales prediction simulator to forecast game sales
+   - Analyze regional sales data for PS4 games
 
 ### Dashboard Features
 
@@ -201,33 +213,15 @@ The project uses a **Random Forest Regressor** for sales prediction:
 - Predicted global sales in **million units**
 - Results displayed in real-time on the dashboard
 
-## 🔮 Future Enhancements
-
-Potential improvements for the project:
-- Add more platforms (Nintendo Switch, PC, etc.)
-- Include additional predictive features (Publisher, Year, etc.)
-- Implement model evaluation metrics (R², MAE, RMSE)
-- Add data export/download functionality
-- Create time series forecasting for future sales
-- Add interactive filtering by region or publisher
-- Implement user authentication for personalized dashboards
-- Deploy to cloud platform (Heroku, AWS, Azure)
-
 ## 📝 Notes
 
 - Ensure `Video_Game.csv` is in the root directory before running the Streamlit app
-- The data cleaning notebook should be run first if processing raw data
+- The cleaned CSV file (`Video_Game.csv`) is included in the repository
+- The data cleaning notebook can be run separately for custom data processing
 - Missing values and duplicates are handled during data preprocessing
 - The Streamlit app caches data and model training for improved performance
+- Required data format: CSV files with columns for Game, Year, Genre, Platform, and regional sales (North America, Europe, Japan, Rest of World)
 
 ## 📄 License
 
 This project is open source and available for educational and research purposes.
-
-## 👤 Author
-
-Created as a data analytics and machine learning project for video game sales analysis and prediction.
-
----
-
-**Happy exploring! 🎮📊**
