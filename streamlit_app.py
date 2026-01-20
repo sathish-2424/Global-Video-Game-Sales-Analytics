@@ -17,7 +17,7 @@ from sklearn.ensemble import RandomForestRegressor
 # =====================================================
 
 st.set_page_config(
-    page_title="Video Game Sales Analytics",
+    page_title="Multimedia video game sales Analysis",
     page_icon="🎮",
     layout="wide"
 )
@@ -26,7 +26,7 @@ st.set_page_config(
 # TITLE
 # =====================================================
 
-st.title("🎮 Video Game Sales Analytics")
+st.title("🎮 Multimedia video game sales Analysis")
 
 # =====================================================
 # DATA LOADING (CLEAN DATA)
