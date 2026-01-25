@@ -1,4 +1,4 @@
-# Video Game Sales Analytics
+# Global Video Game Sales Analytics
 
 import streamlit as st
 import pandas as pd
@@ -12,21 +12,16 @@ from sklearn.ensemble import RandomForestRegressor
 
 
 # PAGE CONFIG
-
 st.set_page_config(
-    page_title="Multimedia video game sales Analysis",
+    page_title="Global Video Game Sales Analytics",
     page_icon="🎮",
     layout="wide"
 )
 
-
 # TITLE
-
-st.title("🎮 Multimedia video game sales Analysis")
-
+st.title("🎮 Global Video Game Sales Analytics")
 
 # DATA LOADING
-
 @st.cache_data
 def load_data():
     df = pd.read_csv("Video_Game.csv")
@@ -34,22 +29,17 @@ def load_data():
 
 df = load_data()
 
-
 # KPI METRICS
-
 st.subheader("📌 Key Business Metrics")
 
 k1, k2, k3 = st.columns(3)
-
 k1.metric("🎯 Total Games", df.shape[0])
 k2.metric("💰 Total Global Sales (M)", round(df["Global"].sum(), 2))
 k3.metric("📊 Avg Sales per Game (M)", round(df["Global"].mean(), 2))
 
 st.divider()
 
-
 # VISUAL ANALYTICS
-
 st.subheader("📊 Sales Insights")
 
 # Platform-wise sales
@@ -66,23 +56,40 @@ genre_sales = (
 # Year-wise sales
 year_sales = df.groupby("Year")["Global"].sum().reset_index()
 
-# Charts
+# 🔧 UPDATED: Convert Year to categorical (string)
+year_sales["Year"] = year_sales["Year"].astype(str)
+
+# -------------------- CHARTS --------------------
+
+# 🔧 UPDATED: Data labels enabled
 fig1 = px.bar(
     platform_sales,
     x="Platform",
     y="Global",
     title="Platform-wise Global Sales",
-    labels={"Global": "Sales (Million Units)"}
+    labels={"Global": "Sales (Million Units)"},
+    text_auto=".2f",
+    color_discrete_sequence=["#4CC9F0"]
 )
 
+fig1.update_traces(textposition="outside")
+
+
+# 🔧 UPDATED: Data labels enabled (horizontal bar)
 fig2 = px.bar(
     genre_sales,
     x="Global",
     y="Genre",
     orientation="h",
-    title="Genre-wise Global Sales"
+    title="Genre-wise Global Sales",
+    text_auto=".2f",
+    color_discrete_sequence=["#4895EF"]
 )
 
+fig2.update_traces(textposition="outside")
+
+
+# 🔧 UPDATED: Line chart categorical + data labels
 fig3 = px.line(
     year_sales,
     x="Year",
@@ -91,6 +98,24 @@ fig3 = px.line(
     markers=True
 )
 
+fig3.update_xaxes(
+    type="category",
+    categoryorder="array",
+    categoryarray=year_sales["Year"]
+)
+
+fig3.update_traces(
+    line=dict(color="#4895EF", width=3),
+    marker=dict(size=8, color="#4895EF"),
+    text=year_sales["Global"],
+    texttemplate="%{y:.2f}",
+    textposition="top center"
+)
+
+
+
+
+# Layout
 c1, c2 = st.columns(2)
 
 with c1:
@@ -103,9 +128,7 @@ st.plotly_chart(fig3, use_container_width=True)
 
 st.divider()
 
-
 # PS4 COUNTRY SALES ANALYSIS
-
 ps4_df = df[df["Platform"] == "PS4"]
 
 country_sales = pd.DataFrame({
@@ -118,13 +141,14 @@ country_sales = pd.DataFrame({
     ]
 })
 
-st.subheader("🌍  Sales by Country")
+st.subheader("🌍 Sales by Country")
 
+# 🔧 UPDATED: Already had labels, kept clean
 fig_country = px.bar(
     country_sales,
     x="Country",
     y="Sales",
-    title="🌎  Regional Sales Distribution",
+    title="🌎 Regional Sales Distribution",
     color="Sales",
     color_continuous_scale="Blues",
     text_auto=".2f"
@@ -134,9 +158,7 @@ st.plotly_chart(fig_country, use_container_width=True)
 
 st.divider()
 
-
 # MODEL TRAINING
-
 @st.cache_resource
 def train_model(data):
     X = data[["Platform", "Genre"]]
@@ -165,25 +187,17 @@ def train_model(data):
 with st.spinner("Training prediction model..."):
     model = train_model(df)
 
-
 # PREDICTION SECTION
-
 st.subheader("🎯 Sales Prediction Simulator")
 
 with st.form("prediction_form"):
     c1, c2 = st.columns(2)
 
     with c1:
-        u_platform = st.selectbox(
-            "Platform",
-            sorted(df["Platform"].unique())
-        )
+        u_platform = st.selectbox("Platform", sorted(df["Platform"].unique()))
 
     with c2:
-        u_genre = st.selectbox(
-            "Genre",
-            sorted(df["Genre"].unique())
-        )
+        u_genre = st.selectbox("Genre", sorted(df["Genre"].unique()))
 
     submit = st.form_submit_button("🔮 Predict Sales")
 
@@ -199,7 +213,5 @@ if submit:
         f"📈 Predicted Global Sales: **{prediction:.2f} Million Units**"
     )
 
-
 # FOOTER
-
 st.markdown("---")
