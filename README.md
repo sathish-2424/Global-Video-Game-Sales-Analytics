@@ -1,4 +1,4 @@
-# 🎮 Multimedia Video Game Sales Analytics
+# 🎮 Global Video Game Sales Analytics
 
 An interactive web application for analyzing and predicting video game sales data for PS4 and Xbox One platforms. This project provides comprehensive analytics, visualizations, and machine learning-based sales predictions using a Random Forest model.
 
@@ -40,7 +40,7 @@ An interactive web application for analyzing and predicting video game sales dat
 ## 📁 Project Structure
 
 ```
-Multimedia-Video-Game-Sales-Analytics/
+Global-Video-Game-Sales-Analytics/
 │
 ├── streamlit_app.py              # Main Streamlit application
 ├── Data_Clean.ipynb              # Data cleaning and preprocessing notebook
@@ -64,8 +64,8 @@ Multimedia-Video-Game-Sales-Analytics/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sathish-2424/Multimedia-Video-Game-Sales-Analytics
-   cd Multimedia-Video-Game-Sales-Analytics
+   git clone https://github.com/sathish-2424/Global-Video-Game-Sales-Analytics
+   cd Global-Video-Game-Sales-Analytics
    ```
 
 2. **Create a virtual environment** (recommended)
