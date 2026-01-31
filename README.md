@@ -16,42 +16,49 @@ An interactive web application for analyzing and predicting video game sales dat
 
 ## ✨ Features
 
-- **📊 Key Performance Metrics**: Total games, total global sales, and average sales per game
-- **📈 Interactive Visualizations**: 
+- **📊 Real-time KPI Dashboard** - Total games, global sales, and statistical metrics at a glance
+- **📈 Interactive Visualizations** - Plotly-powered charts with hover tooltips:
   - Platform-wise sales comparison (PS4 vs Xbox One)
-  - Genre-wise sales analysis
-  - Year-wise sales trends
-  - Regional sales distribution (PS4 by country)
-- **🔮 Sales Prediction**: Machine learning model to predict global sales based on platform and genre
-- **🌍 Regional Analysis**: Detailed breakdown of sales by region (North America, Europe, Japan, Rest of World)
-- **📱 Interactive Dashboard**: User-friendly Streamlit interface with real-time analytics
+  - Genre-wise sales analysis ranked by performance
+  - Year-wise sales trends showing market evolution
+  - Regional sales distribution across markets
+- **🔮 ML-powered Sales Prediction** - Random Forest model predicting sales from platform and genre
+- **🌍 Regional Market Breakdown** - Sales across North America, Europe, Japan, Rest of World
+- **👑 Publisher Rankings** - Top 10 publishers by global sales
+- **🎮 Game Benchmarking** - Top 15 best-selling games with detailed metrics
+- **⚡ Optimized Performance** - Data and model caching for instant insights
+- **📋 Dataset Explorer** - Expandable section with comprehensive data statistics
 
 ## 🛠 Technologies Used
 
-- **Python 3.x**
-- **Streamlit** - Web application framework
+- **Python 3.7+** - Programming language
+- **Streamlit** - Interactive web application framework
 - **Pandas** - Data manipulation and analysis
-- **NumPy** - Numerical computing
-- **Plotly** - Interactive visualizations
-- **Scikit-learn** - Machine learning (Random Forest Regressor)
-- **Jupyter Notebook** - Data cleaning and preprocessing
-- **Power BI** - Additional analytics and reporting
+- **NumPy** - Numerical computing and array operations
+- **Plotly** - Interactive and responsive visualizations
+- **Scikit-learn** - Machine learning models and preprocessing
+  - RandomForestRegressor - Sales prediction
+  - OneHotEncoder - Categorical feature encoding
+  - ColumnTransformer - Pipeline preprocessing
 
 ## 📁 Project Structure
 
 ```
 Global-Video-Game-Sales-Analytics/
 │
-├── streamlit_app.py              # Main Streamlit application
-├── Data_Clean.ipynb              # Data cleaning and preprocessing notebook
-├── requirements.txt              # Python dependencies
-├── README.md                      # Project documentation
-│
-└── Data Files:
-    ├── Video_Game.csv            # Combined and cleaned video game sales data
-    ├── PS4_GamesSales.csv        # Raw PS4 sales data
-    └── XboxOne_GameSales.csv     # Raw Xbox One sales data
+├── streamlit_app.py              # Main Streamlit web application with dashboard & ML model
+├── Game.csv                      # Combined video game sales dataset (cleaned)
+├── requirements.txt              # Python package dependencies
+└── README.md                      # Project documentation
 ```
+
+### Key Files
+
+| File | Purpose |
+|------|---------|
+| `streamlit_app.py` | Main application with data pipeline, visualizations, and ML prediction model |
+| `Game.csv` | Cleaned dataset containing ~1,500-2,000 games with sales data |
+| `requirements.txt` | Streamlit, Pandas, NumPy, Scikit-learn, Plotly dependencies |
 
 ## 🚀 Installation
 
@@ -93,7 +100,7 @@ Global-Video-Game-Sales-Analytics/
 
 ## 💻 Usage
 
-### Running the Streamlit App
+### Running the Streamlit Application
 
 1. **Start the application**
    ```bash
@@ -101,127 +108,202 @@ Global-Video-Game-Sales-Analytics/
    ```
 
 2. **Access the dashboard**
-   - The app will automatically open in your default web browser
-   - If not, navigate to `http://localhost:8501`
+   - The app automatically opens at `http://localhost:8501`
+   - Runs on your local machine with hot-reload enabled
 
-3. **Interact with the dashboard**
-   - View key performance metrics at the top
-   - Explore interactive visualizations for sales trends and comparisons
-   - Use the sales prediction simulator to forecast game sales
-   - Analyze regional sales data for PS4 games
+3. **Dashboard Sections**
+   - **Key Business Metrics** - Total games, global sales, averages
+   - **Sales Insights** - Interactive charts for platform, genre, and year-wise analysis
+   - **Regional Distribution** - Sales breakdown by North America, Europe, Japan, Rest of World
+   - **Publisher & Game Analysis** - Top publishers and best-selling games
+   - **Sales Prediction** - ML-powered forecasting tool
 
-### Dashboard Features
+### Making Predictions
 
-The interactive dashboard includes:
+1. Navigate to the **Sales Prediction Simulator** section
+2. Select a **Platform** (PS4 or Xbox One)
+3. Select a **Genre** (Action, Adventure, RPG, Sports, etc.)
+4. Click **"🔮 Predict Sales"**
+5. View predicted global sales in million units
 
-1. **Key Metrics Section**
-   - Total number of games analyzed
-   - Total global sales in millions
-   - Average sales per game
+## 📊 Data Overview
 
-2. **Sales Insights**
-   - Platform-wise global sales comparison (PS4 vs Xbox One)
-   - Genre-wise sales analysis with ranking
-   - Year-wise sales trends with interactive line chart
+### Dataset Statistics
+- **Total Games**: ~1,500-2,000 games after cleaning
+- **Time Period**: Multiple years of sales data
+- **Platforms**: PS4, Xbox One (2 platforms)
+- **Genres**: Action, Adventure, RPG, Sports, Shooter, Strategy, and more
+- **Publishers**: Major studios like EA, Sony, Microsoft, and independent developers
+- **Coverage**: Global sales across North America, Europe, Japan, and Rest of World
 
-3. **Regional Analysis**
-   - PS4 sales distribution across regions:
-     - North America
-     - Europe
-     - Japan
-     - Rest of World
+### Data Cleaning Pipeline
 
-4. **Sales Prediction Simulator**
-   - Select a platform (PS4 or Xbox One)
-   - Choose a game genre
-   - Get predicted global sales using the trained Random Forest model
+The application implements robust data preprocessing:
 
-### Using the Data Cleaning Notebook
-
-1. **Open Jupyter Notebook**
-   ```bash
-   jupyter notebook
-   ```
-
-2. **Run the Data_Clean.ipynb notebook**
-   - Processes raw CSV files (`PS4_GamesSales.csv` and `XboxOne_GameSales.csv`)
-   - Handles missing values, duplicates, and data standardization
-   - Generates cleaned combined dataset (`Video_Game.csv`)
-
-## 📊 Data Sources
-
-The project uses combined video game sales data from:
-- **PS4 Games**: 1,033 games
-- **Xbox One Games**: 613 games
-- **Total Dataset**: ~1,646 games (after cleaning and preprocessing)
+1. **Zero-Sales Removal** - Filters out games with zero global sales (~31% of raw data)
+2. **Sales Reconciliation** - Recalculates global sales as sum of regional sales
+3. **Data Type Optimization** - Converts categorical columns to category dtype for memory efficiency
+4. **Year Standardization** - Ensures Year field is properly formatted as integer
+5. **Publisher Name Normalization** - Standardizes publisher names across dataset
 
 ### Data Fields
 
-- **Game**: Name of the video game
-- **Year**: Release year
-- **Genre**: Game genre (Action, Adventure, RPG, Sports, etc.)
-- **Publisher**: Game publisher
-- **North America**: Sales in North America (million units)
-- **Europe**: Sales in Europe (million units)
-- **Japan**: Sales in Japan (million units)
-- **Rest of World**: Sales in other regions (million units)
-- **Global**: Total global sales (million units)
-- **Platform**: Gaming platform (PS4 or Xbox One)
+| Field | Type | Description |
+|-------|------|-------------|
+| **Game** | String | Name of the video game |
+| **Year** | Integer | Release year |
+| **Genre** | Category | Game genre (Action, Adventure, RPG, etc.) |
+| **Publisher** | String | Game publisher/developer |
+| **Platform** | Category | Console platform (PS4, Xbox One) |
+| **North America** | Float | Sales in North America (million units) |
+| **Europe** | Float | Sales in Europe (million units) |
+| **Japan** | Float | Sales in Japan (million units) |
+| **Rest of World** | Float | Sales in other regions (million units) |
+| **Global** | Float | Total global sales (million units) |
 
 ## 🎯 Dashboard Features
 
-### 1. Key Business Metrics
-- Real-time calculation of total games, sales, and averages
-- Displayed in metric cards for quick insights
+### 1. Key Business Metrics (Real-time)
+- **🎯 Total Games** - Count of games in dataset
+- **💰 Total Global Sales** - Sum of all global sales (millions of units)
+- **📊 Average Sales** - Mean sales per game
+- **📈 Median Sales** - Median sales per game (robust to outliers)
 
-### 2. Interactive Charts
-- **Bar Charts**: Platform and genre comparisons
-- **Line Charts**: Temporal sales trends over years
-- **Horizontal Bar Charts**: Genre performance rankings
-- All charts are interactive and built with Plotly
+### 2. Interactive Visualizations (Plotly-powered)
 
-### 3. Regional Sales Analysis
-- Detailed breakdown of PS4 sales by region
-- Color-coded bar chart for market distribution
-- Quick identification of top-performing regions
+#### Platform-wise Sales
+- Compares global sales across gaming platforms
+- Bar chart with exact values displayed
+- Identify top-performing platforms
 
-### 4. Sales Prediction Model
-- **Algorithm**: Random Forest Regressor
-- **Features**: Platform and Genre
-- **Training Data**: 70% of combined dataset
-- **Output**: Predicted global sales in million units
+#### Genre-wise Sales
+- Horizontal bar chart ranked by sales
+- Highlights which genres drive revenue
+- Sorted in descending order
+
+#### Year-wise Trends
+- Line chart with markers showing sales over time
+- Interactive hover for precise year data
+- Identifies growth periods and market cycles
+
+#### Regional Distribution
+- Sales breakdown by region: North America, Europe, Japan, Rest of World
+- Visual representation of market concentration
+- Quick identification of regional strengths
+
+### 3. Advanced Analytics
+
+#### Publisher Analysis
+- Top 10 publishers by global sales
+- Horizontal bar chart for easy comparison
+- Identifies market leaders
+
+#### Best-Selling Games
+- Top 15 games with sales, platform, genre, and year
+- Interactive sortable data table
+- Benchmark performance comparisons
+
+### 4. Sales Prediction Simulator
+- **Interactive Form**: Select platform and genre
+- **ML Model**: Trained Random Forest Regressor
+- **Output**: Predicted global sales in millions
+- **Real-time Inference**: Instant predictions without page reload
+
+### 5. Dataset Information
+- Expandable section with dataset statistics
+- Record count, time period, genre/publisher counts
+- Data quality metrics
+- Platform statistics
 
 ## 🤖 Machine Learning Model
 
-The project uses a **Random Forest Regressor** for sales prediction:
-
 ### Model Architecture
-- **Algorithm**: Random Forest Regressor
-- **Number of Estimators**: 300 trees
-- **Preprocessing**: One-hot encoding for categorical features (Platform, Genre)
-- **Random State**: 42 (for reproducibility)
-- **Parallel Processing**: Enabled (n_jobs=-1)
+
+| Component | Specification |
+|-----------|---------------|
+| **Algorithm** | Random Forest Regressor |
+| **Number of Trees** | 100 estimators |
+| **Max Depth** | 15 levels |
+| **Min Samples Split** | 5 samples |
+| **Feature Encoding** | One-Hot Encoding (categorical → numerical) |
+| **Training Split** | 80% training, 20% validation |
+| **Parallelization** | Multi-core processing (n_jobs=-1) |
+| **Random Seed** | 42 (reproducible results) |
 
 ### Model Workflow
-1. Input features: Platform and Genre (categorical variables)
-2. One-hot encoding converts categorical features to numerical format
-3. Random Forest model trained on 70% of the dataset
-4. Predictions generated for user-selected platform and genre combinations
-5. Model is cached using Streamlit for optimal performance
 
-### Output
-- Predicted global sales in **million units**
-- Results displayed in real-time on the dashboard
+1. **Data Preparation**
+   - Input features: Platform (categorical), Genre (categorical)
+   - Target variable: Global sales (continuous)
+   - Outlier removal using IQR method (Q1 - 1.5×IQR to Q3 + 1.5×IQR)
 
-## 📝 Notes
+2. **Feature Engineering**
+   - OneHotEncoder converts categorical features to binary vectors
+   - ColumnTransformer applies preprocessing in pipeline
 
-- Ensure `Video_Game.csv` is in the root directory before running the Streamlit app
-- The cleaned CSV file (`Video_Game.csv`) is included in the repository
-- The data cleaning notebook can be run separately for custom data processing
-- Missing values and duplicates are handled during data preprocessing
-- The Streamlit app caches data and model training for improved performance
-- Required data format: CSV files with columns for Game, Year, Genre, Platform, and regional sales (North America, Europe, Japan, Rest of World)
+3. **Model Training**
+   - Random Forest learns non-linear relationships
+   - Training on filtered dataset (without extreme outliers)
+   - Optimized for generalization on new platform-genre combinations
 
-## 📄 License
+4. **Performance Metrics**
+   - Training R² score - Model fit on training data
+   - Test R² score - Generalization performance on unseen data
+   - Displayed in prediction interface
 
-This project is open source and available for educational and research purposes.
+5. **Inference & Caching**
+   - Model cached using `@st.cache_resource` for performance
+   - Zero cold-start latency after first training
+   - Real-time predictions returned instantly
+
+### Model Advantages
+✅ Handles non-linear relationships between features  
+✅ No need for extensive feature scaling  
+✅ Robust to outliers in training  
+✅ Fast inference time for predictions  
+✅ Captures complex platform-genre interactions
+
+## � Performance Optimizations
+
+The application implements multiple optimization techniques:
+
+| Optimization | Benefit |
+|--------------|---------|
+| **Data Caching** | `@st.cache_data` - Aggregations computed once, reused across sessions |
+| **Model Caching** | `@st.cache_resource` - ML model trained once, instant predictions |
+| **Categorical Types** | Memory-efficient storage for Platform and Genre columns |
+| **Outlier Filtering** | Removes extreme values for better model generalization |
+| **Parallel Processing** | Multi-core Random Forest (n_jobs=-1) for faster training |
+| **Responsive Layout** | Two-column layout adapts to screen size |
+
+## 🔧 Troubleshooting
+
+### Issue: "File not found" error
+**Solution**: Ensure `Game.csv` is in the same directory as `streamlit_app.py`
+
+### Issue: Slow predictions on first run
+**Solution**: Normal behavior - Streamlit caches the model after first training. Subsequent predictions are instant.
+
+### Issue: Port 8501 already in use
+**Solution**: Run the app on a different port:
+```bash
+streamlit run streamlit_app.py --server.port 8502
+```
+
+### Issue: Missing dependencies
+**Solution**: Install all required packages:
+```bash
+pip install -r requirements.txt
+```
+
+## 📈 Future Enhancements
+
+Potential improvements for future versions:
+
+- **Feature Engineering**: Add developer sentiment, marketing spend, franchise history
+- **Model Improvements**: Try XGBoost, Neural Networks, or ensemble methods
+- **Regional Predictions**: Separate models for each geographic region
+- **Time Series Analysis**: Temporal patterns and seasonal trends
+- **Data Export**: Download reports and predictions as CSV/PDF
+- **Comparative Analysis**: Compare predicted vs actual sales for model validation
+- **User Feedback**: Rating system to improve model over time
