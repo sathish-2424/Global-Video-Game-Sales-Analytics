@@ -26,14 +26,6 @@ st.title("🎮 Global Video Game Sales Analytics")
 # DATA LOADING & CLEANING
 @st.cache_data
 def load_and_clean_data():
-    """
-    Load CSV and apply data cleaning:
-    1. Remove zero-sales records (511 rows)
-    2. Fix global sales calculations (208 mismatches)
-    3. Convert Year to integer
-    4. Standardize publisher names
-    5. Add data quality flag
-    """
     df = pd.read_csv("Game.csv")
     
     # Remove zero-sales games (31% of dataset)
@@ -296,8 +288,6 @@ def train_model(data):
 
 with st.spinner("Training prediction model..."):
     model, train_score, test_score = train_model(df)
-
-
 
 
 # PREDICTION SECTION
