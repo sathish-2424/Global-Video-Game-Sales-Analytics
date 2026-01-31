@@ -34,7 +34,7 @@ def load_and_clean_data():
     4. Standardize publisher names
     5. Add data quality flag
     """
-    df = pd.read_csv("Video_Game.csv")
+    df = pd.read_csv("Game.csv")
     
     # Remove zero-sales games (31% of dataset)
     df_clean = df[df["Global"] > 0].copy()
