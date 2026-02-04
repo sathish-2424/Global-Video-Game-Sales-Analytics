@@ -32,19 +32,19 @@ def load_and_clean_data():
         "Game.csv",
         dtype={
             "Year": "int16",
-            "Units": "float32",
-            "Revenue_USD_M": "float32"
+            "Units Sold (M)": "float32",
+            "Total Revenue (M USD)_USD_M": "float32"
         }
     )
 
     # Remove invalid rows
-    df = df[df["Revenue_USD_M"] > 0].copy()
+    df = df[df["Total Revenue (M USD)"] > 0].copy()
 
     # Rename columns for clarity
     df.rename(columns={
         "Name": "Game",
-        "Units": "Units Sold (M)",
-        "Revenue_USD_M": "Revenue (M USD)"
+        "Units Sold (M)": "Units Sold (M)",
+        "Total Revenue (M USD)": "Revenue (M USD)"
     }, inplace=True)
 
     # Optimize memory
@@ -66,7 +66,7 @@ c1, c2, c3, c4 = st.columns(4)
 
 c1.metric("🎮 Total Games", f"{len(df):,}")
 c2.metric("💰 Total Revenue (M USD)", f"{df['Revenue (M USD)'].sum():,.0f}")
-c3.metric("📊 Avg Revenue / Game (M USD)", f"{df['Revenue (M USD)'].mean():.2f}")
+c3.metric("📊 Avg Revenue / Name", f"{df['Revenue (M USD)'].mean():.2f}")
 c4.metric("📈 Avg Units Sold (M)", f"{df['Units Sold (M)'].mean():.2f}")
 
 st.divider()

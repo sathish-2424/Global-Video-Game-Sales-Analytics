@@ -1,1029 +1,1194 @@
-Name,Year,Genre,Publisher,Developer,Platform,Units,Revenue_USD_M
-Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,Multi,5.9,236
+Name,Year,Genre,Publisher,Developer,Platform,Units Sold (M),Total Revenue (M USD)
+Amnesia: The Dark Descent,2010,Horror,Frictional Games,Frictional Games,Mobile,0.5,20
+Amnesia: The Dark Descent,2010,Horror,Frictional Games,Frictional Games,PS4,1.3,50.2
+Amnesia: The Dark Descent,2010,Horror,Frictional Games,Frictional Games,PS5,4.5,180.3
+Batman: Arkham City,2011,Action-Adventure,WB Games,Rocksteady Studios,PS3,4.6,184
+Batman: Arkham City,2011,Action-Adventure,WB Games,Rocksteady Studios,PS4,1.7,68
+Batman: Arkham City,2011,Action-Adventure,WB Games,Rocksteady Studios,Xbox One,5.2,208
+Blazblue: Continuum Shift II,2011,Fighting,Arc System Works,Arc System Works,Xbox 360,0.5,183.3
+Blazblue: Continuum Shift II,2011,Fighting,Arc System Works,Arc System Works,Xbox One,0.9,147.4
+Crysis 2,2011,Shooter,EA,Crytek,PC,2.1,184
+Crysis 2,2011,Shooter,EA,Crytek,PS4,3,102.7
+Dark Souls,2011,Action-RPG,Bandai Namco,FromSoftware,PC,1.4,56
+Dark Souls,2011,Action-RPG,Bandai Namco,FromSoftware,PS3,2.4,96
+Dark Souls,2011,Action-RPG,Bandai Namco,FromSoftware,PS4,1.6,64
+Dark Souls,2011,Action-RPG,Bandai Namco,FromSoftware,Xbox One,2.6,104
+Dead Space 2,2011,Horror,EA,Visceral Games,PC,4.4,71.4
+Dead Space 2,2011,Horror,EA,Visceral Games,PS3,2,150.1
+Dead Space 2,2011,Horror,EA,Visceral Games,Xbox 360,4.6,110.5
+Deus Ex: Human Revolution,2011,Action-RPG,Square Enix,Eidos Montreal,PS3,3.3,132
+Deus Ex: Human Revolution,2011,Action-RPG,Square Enix,Eidos Montreal,PS4,2.6,104
+Dragon Age II,2011,RPG,EA,BioWare,PS3,4,85.8
+Dragon Age II,2011,RPG,EA,BioWare,PS4,3.4,96.6
+Dragon Age II,2011,RPG,EA,BioWare,Xbox 360,3.6,79.3
+Dragon Age II,2011,RPG,EA,BioWare,Xbox One,4.3,77.9
+Forza Motorsport 4,2011,Racing,Microsoft,Turn 10,PS3,4.9,100.4
+Forza Motorsport 4,2011,Racing,Microsoft,Turn 10,PS4,3.4,100.7
+Forza Motorsport 4,2011,Racing,Microsoft,Turn 10,Xbox 360,1.4,117.2
+Gears of War 3,2011,Shooter,Microsoft,Epic Games,PC,5.3,212
+Gears of War 3,2011,Shooter,Microsoft,Epic Games,PS3,4.3,172
+Gears of War 3,2011,Shooter,Microsoft,Epic Games,PS4,5.7,228
+Gears of War 3,2011,Shooter,Microsoft,Epic Games,Xbox One,3.9,156
+Killing Floor,2011,Shooter,Tripwire Interactive,Tripwire Interactive,PS4,1.8,72
+Killing Floor,2011,Shooter,Tripwire Interactive,Tripwire Interactive,Xbox One,0.7,28
+Killzone 3,2011,Shooter,Sony,Guerrilla Games,PC,4.6,125.2
+Killzone 3,2011,Shooter,Sony,Guerrilla Games,PS3,3.4,72.4
+Killzone 3,2011,Shooter,Sony,Guerrilla Games,Xbox 360,3.2,129.7
+Killzone 3,2011,Shooter,Sony,Guerrilla Games,Xbox One,1.1,51.3
+L.A. Noire,2011,Action-Adventure,Rockstar Games,Team Bondi,PC,1.4,56
+L.A. Noire,2011,Action-Adventure,Rockstar Games,Team Bondi,PS3,3.9,156
+L.A. Noire,2011,Action-Adventure,Rockstar Games,Team Bondi,Xbox 360,1.3,52
+LittleBigPlanet 2,2011,Platformer,Sony,Media Molecule,PS4,4.2,86.8
+LittleBigPlanet 2,2011,Platformer,Sony,Media Molecule,Xbox One,0.6,176.4
+Marvel vs. Capcom 3,2011,Fighting,Capcom,Capcom,PS3,1.5,113.7
+Marvel vs. Capcom 3,2011,Fighting,Capcom,Capcom,PS4,3.2,138.2
+Marvel vs. Capcom 3,2011,Fighting,Capcom,Capcom,Xbox 360,4.9,18.1
+Monster Hunter Portable 3rd,2011,Action-RPG,Capcom,Capcom,PS3,3.8,160.6
+Monster Hunter Portable 3rd,2011,Action-RPG,Capcom,Capcom,PS4,4.7,147.9
+Monster Hunter Portable 3rd,2011,Action-RPG,Capcom,Capcom,Xbox One,0.7,67.8
+Mortal Kombat,2011,Fighting,WB Games,NetherRealm,PC,4.7,188
+Mortal Kombat,2011,Fighting,WB Games,NetherRealm,PS4,5.9,236
+Mortal Kombat,2011,Fighting,WB Games,NetherRealm,Xbox 360,0.7,28
+Mortal Kombat,2011,Fighting,WB Games,NetherRealm,Xbox One,1.1,44
+Rage,2011,Shooter,Bethesda,id Software,PS3,4.1,29.5
+Rage,2011,Shooter,Bethesda,id Software,Xbox 360,1,174.4
+Saints Row: The Third,2011,Action-Adventure,THQ,Volition,PC,0.8,32
+Saints Row: The Third,2011,Action-Adventure,THQ,Volition,PS3,1.8,72
+Saints Row: The Third,2011,Action-Adventure,THQ,Volition,PS4,5.5,220
+Saints Row: The Third,2011,Action-Adventure,THQ,Volition,Xbox One,1.2,48
+Super Street Fighter IV,2011,Fighting,Capcom,Capcom,PC,2.9,116
+Super Street Fighter IV,2011,Fighting,Capcom,Capcom,PS3,1.6,64
+Super Street Fighter IV,2011,Fighting,Capcom,Capcom,PS4,2.4,96
+Super Street Fighter IV,2011,Fighting,Capcom,Capcom,Xbox 360,4.8,192
+The Elder Scrolls V: Skyrim,2011,RPG,Bethesda,Bethesda Game Studios,PS3,5.3,212
+The Elder Scrolls V: Skyrim,2011,RPG,Bethesda,Bethesda Game Studios,PS4,5.6,224
+The Elder Scrolls V: Skyrim,2011,RPG,Bethesda,Bethesda Game Studios,Xbox 360,2.4,96
+The Elder Scrolls V: Skyrim,2011,RPG,Bethesda,Bethesda Game Studios,Xbox One,4.6,184
+The Legend of Zelda: Skyward Sword,2011,Action-Adventure,Nintendo,Nintendo,PS4,5.5,220
+The Legend of Zelda: Skyward Sword,2011,Action-Adventure,Nintendo,Nintendo,Xbox 360,4.2,168
+The Legend of Zelda: Skyward Sword,2011,Action-Adventure,Nintendo,Nintendo,Xbox One,4.6,184
+Uncharted 3 DLC,2011,Action-Adventure,Sony,Naughty Dog,PS3,4,150.6
+Uncharted 3 DLC,2011,Action-Adventure,Sony,Naughty Dog,PS4,4.1,80.3
+Uncharted 3: Drake's Deception,2011,Action-Adventure,Sony,Naughty Dog,PC,2.2,88
+Uncharted 3: Drake's Deception,2011,Action-Adventure,Sony,Naughty Dog,PS3,2.9,116
+Vanquish,2011,Shooter,Platinum Games,Platinum Games,PC,1.9,191.2
+Vanquish,2011,Shooter,Platinum Games,Platinum Games,PS3,2.4,117.3
+"Warhammer 40,000: Space Marine",2011,Action,THQ,Relic Entertainment,PC,1.2,91.9
+"Warhammer 40,000: Space Marine",2011,Action,THQ,Relic Entertainment,PS4,1.9,25.2
+Assassin's Creed III,2012,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,4.9,196
+Assassin's Creed III,2012,Action-Adventure,Ubisoft,Ubisoft,PC,4,160
+Assassin's Creed III,2012,Action-Adventure,Ubisoft,Ubisoft,PS4,3.2,128
+Assassin's Creed III,2012,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1.3,52
+Borderlands 2,2012,Action-RPG,2K Games,Gearbox Software,Nintendo Switch,3.4,136
+Borderlands 2,2012,Action-RPG,2K Games,Gearbox Software,PC,2,80
+Borderlands 2,2012,Action-RPG,2K Games,Gearbox Software,PS4,4.9,196
+Borderlands 2,2012,Action-RPG,2K Games,Gearbox Software,Xbox 360,6,240
+Call of Duty: Black Ops II,2012,Shooter,Activision,Treyarch,PC,0.5,20
+Call of Duty: Black Ops II,2012,Shooter,Activision,Treyarch,PS4,1.8,72
+Call of Duty: Black Ops II,2012,Shooter,Activision,Treyarch,Xbox 360,3.9,156
+Call of Duty: Black Ops II,2012,Shooter,Activision,Treyarch,Xbox One,0.8,32
+Diablo III,2012,Action-RPG,Blizzard,Blizzard,Nintendo Switch,3.5,140
+Diablo III,2012,Action-RPG,Blizzard,Blizzard,PS3,3.9,156
+Diablo III,2012,Action-RPG,Blizzard,Blizzard,PS4,2.5,100
+Diablo III,2012,Action-RPG,Blizzard,Blizzard,Xbox 360,5,200
+Dishonored,2012,Action-Adventure,Bethesda,Arkane Studios,PS3,3.7,148
+Dishonored,2012,Action-Adventure,Bethesda,Arkane Studios,Xbox 360,5.8,232
+Far Cry 3,2012,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,3.4,136
+Far Cry 3,2012,Action-Adventure,Ubisoft,Ubisoft,PS3,5.9,236
+Far Cry 3,2012,Action-Adventure,Ubisoft,Ubisoft,Xbox 360,2.2,88
+Final Fantasy XIII-2,2012,RPG,Square Enix,Square Enix,PS3,4.9,196
+Final Fantasy XIII-2,2012,RPG,Square Enix,Square Enix,PS4,1.8,72
+Final Fantasy XIII-2,2012,RPG,Square Enix,Square Enix,Xbox One,2.8,112
+Forza Horizon,2012,Racing,Microsoft,Playground Games,PS4,1.3,173.1
+Forza Horizon,2012,Racing,Microsoft,Playground Games,Xbox One,2,148.3
+Forza Motorsport 5,2012,Racing,Microsoft,Turn 10,PC,2.1,28.7
+Forza Motorsport 5,2012,Racing,Microsoft,Turn 10,Xbox One,1.9,57.4
+Grand Theft Auto: Chinatown Wars,2012,Action-Adventure,Rockstar Games,Rockstar Games,PS3,1.2,20.5
+Grand Theft Auto: Chinatown Wars,2012,Action-Adventure,Rockstar Games,Rockstar Games,Xbox One,3,164.9
+Halo 4,2012,Shooter,Microsoft,343 Industries,PS3,5.9,236
+Halo 4,2012,Shooter,Microsoft,343 Industries,PS4,5.9,236
+Halo 4,2012,Shooter,Microsoft,343 Industries,Xbox 360,3,120
+Halo 4,2012,Shooter,Microsoft,343 Industries,Xbox One,1.1,44
+Madden NFL 13,2012,Sports,EA,EA Tiburon,Nintendo Switch,1.5,118.3
+Madden NFL 13,2012,Sports,EA,EA Tiburon,PS4,4.6,75.3
+Mass Effect 3,2012,RPG,EA,BioWare,PC,2.1,84
+Mass Effect 3,2012,RPG,EA,BioWare,Xbox 360,3.1,124
+Mass Effect 3 DLC,2012,RPG,EA,BioWare,PS3,0.5,130.9
+Mass Effect 3 DLC,2012,RPG,EA,BioWare,Xbox 360,4.7,151.3
+NBA 2K13,2012,Sports,2K Sports,Visual Concepts,PC,4.5,21.7
+NBA 2K13,2012,Sports,2K Sports,Visual Concepts,PS3,2.8,52.5
+NBA 2K13,2012,Sports,2K Sports,Visual Concepts,Xbox One,3.2,33.1
+NieR Gestalt,2012,Action-RPG,Square Enix,Cavia,Nintendo Switch,3.2,121.9
+NieR Gestalt,2012,Action-RPG,Square Enix,Cavia,PC,1.2,134.4
+NieR Gestalt,2012,Action-RPG,Square Enix,Cavia,PS3,4.3,151.9
+NieR Gestalt,2012,Action-RPG,Square Enix,Cavia,Xbox One,0.6,52
+Persona 4 Arena,2012,Fighting,Atlus,Arc System Works,PS3,1.3,49.4
+Persona 4 Arena,2012,Fighting,Atlus,Arc System Works,PS4,2.5,172.3
+Persona 4 Arena,2012,Fighting,Atlus,Arc System Works,Xbox 360,4.4,119.6
+Persona 4 Arena,2012,Fighting,Atlus,Arc System Works,Xbox One,4.6,148.5
+Quantum of Solace,2012,Shooter,Activision,Treyarch,Nintendo Switch,3.2,23
+Quantum of Solace,2012,Shooter,Activision,Treyarch,PC,2.5,43.1
+Quantum of Solace,2012,Shooter,Activision,Treyarch,PS3,2.3,101.8
+Quantum of Solace,2012,Shooter,Activision,Treyarch,PS4,2.3,103.7
+Resident Evil 6,2012,Horror,Capcom,Capcom,Nintendo Switch,0.5,20
+Resident Evil 6,2012,Horror,Capcom,Capcom,Xbox 360,0.5,20
+Resident Evil 6,2012,Horror,Capcom,Capcom,Xbox One,4.7,188
+Skyrim DLC: Dawnguard,2012,RPG,Bethesda,Bethesda Game Studios,Nintendo Switch,2.3,92
+Skyrim DLC: Dawnguard,2012,RPG,Bethesda,Bethesda Game Studios,PC,3.6,144
+Skyrim DLC: Dawnguard,2012,RPG,Bethesda,Bethesda Game Studios,PS3,1.8,72
+Skyrim DLC: Dawnguard,2012,RPG,Bethesda,Bethesda Game Studios,Xbox One,2.8,112
+Soulcalibur V,2012,Fighting,Bandai Namco,Bandai Namco,Nintendo Switch,3.6,194.2
+Soulcalibur V,2012,Fighting,Bandai Namco,Bandai Namco,PS4,3.6,174.7
+Soulcalibur V,2012,Fighting,Bandai Namco,Bandai Namco,Xbox One,2.5,125.3
+Splinter Cell: Blacklist,2012,Stealth,Ubisoft,Ubisoft,PC,4.5,94.1
+Splinter Cell: Blacklist,2012,Stealth,Ubisoft,Ubisoft,PS4,3.2,154.6
+Splinter Cell: Blacklist,2012,Stealth,Ubisoft,Ubisoft,Xbox 360,3.6,78.6
+Tekken Tag Tournament 2,2012,Fighting,Bandai Namco,Bandai Namco,PS4,3.4,177.5
+Tekken Tag Tournament 2,2012,Fighting,Bandai Namco,Bandai Namco,Xbox 360,0.5,37
+The Old Republic DLC,2012,RPG,EA,BioWare,PC,1,46.3
+The Old Republic DLC,2012,RPG,EA,BioWare,Xbox 360,0.9,199.7
+The Witcher 2: Assassins of Kings,2012,RPG,CD Projekt,CD Projekt Red,Nintendo Switch,4.2,168
+The Witcher 2: Assassins of Kings,2012,RPG,CD Projekt,CD Projekt Red,PS3,3.2,128
+The Witcher 2: Assassins of Kings,2012,RPG,CD Projekt,CD Projekt Red,Xbox 360,2.4,96
+The Witcher 2: Assassins of Kings,2012,RPG,CD Projekt,CD Projekt Red,Xbox One,0.6,24
+Total War: Shogun 2,2012,Strategy,Sega,Creative Assembly,PS3,5.4,216
+Total War: Shogun 2,2012,Strategy,Sega,Creative Assembly,PS4,3.7,148
+Total War: Shogun 2,2012,Strategy,Sega,Creative Assembly,Xbox One,3.1,124
+XCOM: Enemy Unknown,2012,Strategy,2K Games,Firaxis Games,Nintendo Switch,5.2,208
+XCOM: Enemy Unknown,2012,Strategy,2K Games,Firaxis Games,Xbox One,2,80
+Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.3,11.8
+Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.6,23.6
+Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,PC,1.2,47.2
 Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,PS4,2.1,82.6
 Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,PS5,2.1,82.6
 Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1.5,59
 Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,1.5,59
-Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,PC,1.2,47.2
-Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.6,23.6
-Assassin's Creed IV: Black Flag,2013,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.3,11.8
-Battlefield 4,2013,Shooter,EA,DICE,Multi,7.2,288
+Battlefield 4,2013,Shooter,EA,DICE,Mobile,0.4,14.4
+Battlefield 4,2013,Shooter,EA,DICE,Nintendo Switch,0.7,28.8
+Battlefield 4,2013,Shooter,EA,DICE,PC,1.4,57.6
 Battlefield 4,2013,Shooter,EA,DICE,PS4,2.5,100.8
 Battlefield 4,2013,Shooter,EA,DICE,PS5,2.5,100.8
 Battlefield 4,2013,Shooter,EA,DICE,Xbox One,1.8,72
 Battlefield 4,2013,Shooter,EA,DICE,Xbox Series X,1.8,72
-Battlefield 4,2013,Shooter,EA,DICE,PC,1.4,57.6
-Battlefield 4,2013,Shooter,EA,DICE,Nintendo Switch,0.7,28.8
-Battlefield 4,2013,Shooter,EA,DICE,Mobile,0.4,14.4
-Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,Multi,8.5,340
+Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,Mobile,0.4,17
+Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,Nintendo Switch,0.9,34
+Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,PC,1.7,68
 Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,PS4,3,119
 Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,PS5,3,119
 Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,Xbox One,2.1,85
 Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,Xbox Series X,2.1,85
-Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,PC,1.7,68
-Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,Nintendo Switch,0.9,34
-Call of Duty: Ghosts,2013,Shooter,Activision,Infinity Ward,Mobile,0.4,17
-FIFA 14,2013,Sports,EA,EA Sports,Multi,4.8,192
+Dota 2,2013,MOBA,Valve,Valve,PC,8.5,340
+FIFA 14,2013,Sports,EA,EA Sports,Mobile,0.2,9.6
+FIFA 14,2013,Sports,EA,EA Sports,Nintendo Switch,0.5,19.2
+FIFA 14,2013,Sports,EA,EA Sports,PC,1,38.4
 FIFA 14,2013,Sports,EA,EA Sports,PS4,1.7,67.2
 FIFA 14,2013,Sports,EA,EA Sports,PS5,1.7,67.2
 FIFA 14,2013,Sports,EA,EA Sports,Xbox One,1.2,48
 FIFA 14,2013,Sports,EA,EA Sports,Xbox Series X,1.2,48
-FIFA 14,2013,Sports,EA,EA Sports,PC,1,38.4
-FIFA 14,2013,Sports,EA,EA Sports,Nintendo Switch,0.5,19.2
-FIFA 14,2013,Sports,EA,EA Sports,Mobile,0.2,9.6
 Forza Motorsport 5,2013,Racing,Microsoft,Turn 10,Xbox One,2.4,96
-Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,Multi,34,1360
+Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,Mobile,1.7,68
+Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,Nintendo Switch,3.4,136
+Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,PC,6.8,272
 Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,PS4,11.9,476
 Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,PS5,11.9,476
 Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,Xbox One,8.5,340
 Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,Xbox Series X,8.5,340
-Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,PC,6.8,272
-Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,Nintendo Switch,3.4,136
-Grand Theft Auto V,2013,Action-Adventure,Rockstar Games,Rockstar Games,Mobile,1.7,68
 Killzone: Shadow Fall,2013,Shooter,Sony,Guerrilla Games,PS4,2.1,84
-Madden NFL 14,2013,Sports,EA,EA Tiburon,Multi,5,200
+League of Legends,2013,MOBA,Riot Games,Riot Games,PC,7.3,292
+Madden NFL 14,2013,Sports,EA,EA Tiburon,Mobile,0.2,10
+Madden NFL 14,2013,Sports,EA,EA Tiburon,Nintendo Switch,0.5,20
+Madden NFL 14,2013,Sports,EA,EA Tiburon,PC,1,40
 Madden NFL 14,2013,Sports,EA,EA Tiburon,PS4,1.8,70
 Madden NFL 14,2013,Sports,EA,EA Tiburon,PS5,1.8,70
 Madden NFL 14,2013,Sports,EA,EA Tiburon,Xbox One,1.2,50
 Madden NFL 14,2013,Sports,EA,EA Tiburon,Xbox Series X,1.2,50
-Madden NFL 14,2013,Sports,EA,EA Tiburon,PC,1,40
-Madden NFL 14,2013,Sports,EA,EA Tiburon,Nintendo Switch,0.5,20
-Madden NFL 14,2013,Sports,EA,EA Tiburon,Mobile,0.2,10
-NBA 2K14,2013,Sports,2K Sports,Visual Concepts,Multi,5.2,208
+NBA 2K14,2013,Sports,2K Sports,Visual Concepts,Mobile,0.3,10.4
+NBA 2K14,2013,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.5,20.8
+NBA 2K14,2013,Sports,2K Sports,Visual Concepts,PC,1,41.6
 NBA 2K14,2013,Sports,2K Sports,Visual Concepts,PS4,1.8,72.8
 NBA 2K14,2013,Sports,2K Sports,Visual Concepts,PS5,1.8,72.8
 NBA 2K14,2013,Sports,2K Sports,Visual Concepts,Xbox One,1.3,52
 NBA 2K14,2013,Sports,2K Sports,Visual Concepts,Xbox Series X,1.3,52
-NBA 2K14,2013,Sports,2K Sports,Visual Concepts,PC,1,41.6
-NBA 2K14,2013,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.5,20.8
-NBA 2K14,2013,Sports,2K Sports,Visual Concepts,Mobile,0.3,10.4
+Outlast,2013,Horror,Red Barrels,Red Barrels,Mobile,1.6,65.4
+Outlast,2013,Horror,Red Barrels,Red Barrels,Nintendo Switch,0.9,35.5
+Outlast,2013,Horror,Red Barrels,Red Barrels,PC,2,79
+Outlast,2013,Horror,Red Barrels,Red Barrels,PS4,2.2,86.1
+Outlast,2013,Horror,Red Barrels,Red Barrels,PS5,2.4,96.8
+Outlast,2013,Horror,Red Barrels,Red Barrels,Xbox One,2.2,86.7
+Outlast,2013,Horror,Red Barrels,Red Barrels,Xbox Series X,1.1,43.7
 The Last of Us,2013,Action-Adventure,Sony,Naughty Dog,PS3,6.8,272
-Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,Multi,9.1,364
+Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,Mobile,0.5,18.2
+Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,Nintendo Switch,0.9,36.4
+Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,PC,1.8,72.8
 Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,PS4,3.2,127.4
 Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,PS5,3.2,127.4
 Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,Xbox One,2.3,91
 Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,Xbox Series X,2.3,91
-Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,PC,1.8,72.8
-Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,Nintendo Switch,0.9,36.4
-Call of Duty: Advanced Warfare,2014,Shooter,Activision,Sledgehammer Games,Mobile,0.5,18.2
-Destiny,2014,Shooter,Activision,Bungie,Multi,6.3,252
+Dark Souls II,2014,Action-RPG,Bandai Namco,FromSoftware,Mobile,2,80.9
+Dark Souls II,2014,Action-RPG,Bandai Namco,FromSoftware,Nintendo Switch,1.4,57.6
+Dark Souls II,2014,Action-RPG,Bandai Namco,FromSoftware,Xbox Series X,1.1,42.2
+Destiny,2014,Shooter,Activision,Bungie,Mobile,0.3,12.6
+Destiny,2014,Shooter,Activision,Bungie,Nintendo Switch,0.6,25.2
+Destiny,2014,Shooter,Activision,Bungie,PC,1.3,50.4
 Destiny,2014,Shooter,Activision,Bungie,PS4,2.2,88.2
 Destiny,2014,Shooter,Activision,Bungie,PS5,2.2,88.2
 Destiny,2014,Shooter,Activision,Bungie,Xbox One,1.6,63
 Destiny,2014,Shooter,Activision,Bungie,Xbox Series X,1.6,63
-Destiny,2014,Shooter,Activision,Bungie,PC,1.3,50.4
-Destiny,2014,Shooter,Activision,Bungie,Nintendo Switch,0.6,25.2
-Destiny,2014,Shooter,Activision,Bungie,Mobile,0.3,12.6
-Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,Multi,2.8,112
+Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,Mobile,0.1,5.6
+Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,Nintendo Switch,0.3,11.2
+Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,PC,0.6,22.4
 Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,PS4,1,39.2
 Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,PS5,1,39.2
 Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,Xbox One,0.7,28
 Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,Xbox Series X,0.7,28
-Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,PC,0.6,22.4
-Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,Nintendo Switch,0.3,11.2
-Dragonball Xenoverse,2014,Fighting,Bandai Namco,Dimps,Mobile,0.1,5.6
-FIFA 15,2014,Sports,EA,EA Sports,Multi,6.5,260
+FIFA 15,2014,Sports,EA,EA Sports,Mobile,0.3,13
+FIFA 15,2014,Sports,EA,EA Sports,Nintendo Switch,0.7,26
+FIFA 15,2014,Sports,EA,EA Sports,PC,1.3,52
 FIFA 15,2014,Sports,EA,EA Sports,PS4,2.3,91
 FIFA 15,2014,Sports,EA,EA Sports,PS5,2.3,91
 FIFA 15,2014,Sports,EA,EA Sports,Xbox One,1.6,65
 FIFA 15,2014,Sports,EA,EA Sports,Xbox Series X,1.6,65
-FIFA 15,2014,Sports,EA,EA Sports,PC,1.3,52
-FIFA 15,2014,Sports,EA,EA Sports,Nintendo Switch,0.7,26
-FIFA 15,2014,Sports,EA,EA Sports,Mobile,0.3,13
-Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,Multi,3.5,140
+Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,7
+Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,14
+Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,PC,0.7,28
 Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,PS4,1.2,49
 Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,PS5,1.2,49
 Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,Xbox One,0.9,35
 Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,0.9,35
-Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,PC,0.7,28
-Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,14
-Far Cry 4,2014,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,7
-Madden NFL 15,2014,Sports,EA,EA Tiburon,Multi,6.2,248
+Madden NFL 15,2014,Sports,EA,EA Tiburon,Mobile,0.3,12.4
+Madden NFL 15,2014,Sports,EA,EA Tiburon,Nintendo Switch,0.6,24.8
+Madden NFL 15,2014,Sports,EA,EA Tiburon,PC,1.2,49.6
 Madden NFL 15,2014,Sports,EA,EA Tiburon,PS4,2.2,86.8
 Madden NFL 15,2014,Sports,EA,EA Tiburon,PS5,2.2,86.8
 Madden NFL 15,2014,Sports,EA,EA Tiburon,Xbox One,1.6,62
 Madden NFL 15,2014,Sports,EA,EA Tiburon,Xbox Series X,1.6,62
-Madden NFL 15,2014,Sports,EA,EA Tiburon,PC,1.2,49.6
-Madden NFL 15,2014,Sports,EA,EA Tiburon,Nintendo Switch,0.6,24.8
-Madden NFL 15,2014,Sports,EA,EA Tiburon,Mobile,0.3,12.4
-Minecraft,2014,Sandbox,Microsoft,Mojang,Multi,12,480
+Minecraft,2014,Sandbox,Microsoft,Mojang,Mobile,0.6,24
+Minecraft,2014,Sandbox,Microsoft,Mojang,Nintendo Switch,1.2,48
+Minecraft,2014,Sandbox,Microsoft,Mojang,PC,2.4,96
 Minecraft,2014,Sandbox,Microsoft,Mojang,PS4,4.2,168
 Minecraft,2014,Sandbox,Microsoft,Mojang,PS5,4.2,168
 Minecraft,2014,Sandbox,Microsoft,Mojang,Xbox One,3,120
 Minecraft,2014,Sandbox,Microsoft,Mojang,Xbox Series X,3,120
-Minecraft,2014,Sandbox,Microsoft,Mojang,PC,2.4,96
-Minecraft,2014,Sandbox,Microsoft,Mojang,Nintendo Switch,1.2,48
-Minecraft,2014,Sandbox,Microsoft,Mojang,Mobile,0.6,24
-NBA 2K15,2014,Sports,2K Sports,Visual Concepts,Multi,5.8,232
+NBA 2K15,2014,Sports,2K Sports,Visual Concepts,Mobile,0.3,11.6
+NBA 2K15,2014,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,23.2
+NBA 2K15,2014,Sports,2K Sports,Visual Concepts,PC,1.2,46.4
 NBA 2K15,2014,Sports,2K Sports,Visual Concepts,PS4,2,81.2
 NBA 2K15,2014,Sports,2K Sports,Visual Concepts,PS5,2,81.2
 NBA 2K15,2014,Sports,2K Sports,Visual Concepts,Xbox One,1.4,58
 NBA 2K15,2014,Sports,2K Sports,Visual Concepts,Xbox Series X,1.4,58
-NBA 2K15,2014,Sports,2K Sports,Visual Concepts,PC,1.2,46.4
-NBA 2K15,2014,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,23.2
-NBA 2K15,2014,Sports,2K Sports,Visual Concepts,Mobile,0.3,11.6
-Titanfall,2014,Shooter,EA,Respawn Entertainment,Multi,7,280
+The Evil Within,2014,Horror,Bethesda,Tango Gameworks,Mobile,0.3,10.7
+The Evil Within,2014,Horror,Bethesda,Tango Gameworks,Nintendo Switch,1.9,77.5
+The Evil Within,2014,Horror,Bethesda,Tango Gameworks,PC,3.8,153.5
+The Evil Within,2014,Horror,Bethesda,Tango Gameworks,PS5,4.5,181.2
+The Evil Within,2014,Horror,Bethesda,Tango Gameworks,Xbox One,3,121.7
+The Evil Within,2014,Horror,Bethesda,Tango Gameworks,Xbox Series X,1.5,60.5
+Titanfall,2014,Shooter,EA,Respawn Entertainment,Mobile,0.4,14
+Titanfall,2014,Shooter,EA,Respawn Entertainment,Nintendo Switch,0.7,28
+Titanfall,2014,Shooter,EA,Respawn Entertainment,PC,1.4,56
 Titanfall,2014,Shooter,EA,Respawn Entertainment,PS4,2.4,98
 Titanfall,2014,Shooter,EA,Respawn Entertainment,PS5,2.4,98
 Titanfall,2014,Shooter,EA,Respawn Entertainment,Xbox One,1.8,70
 Titanfall,2014,Shooter,EA,Respawn Entertainment,Xbox Series X,1.8,70
-Titanfall,2014,Shooter,EA,Respawn Entertainment,PC,1.4,56
-Titanfall,2014,Shooter,EA,Respawn Entertainment,Nintendo Switch,0.7,28
-Titanfall,2014,Shooter,EA,Respawn Entertainment,Mobile,0.4,14
-Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,Multi,4,160
+Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,8
+Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,16
+Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,PC,0.8,32
 Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,PS4,1.4,56
 Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,PS5,1.4,56
 Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1,40
 Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,1,40
-Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,PC,0.8,32
-Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,16
-Watch Dogs,2014,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,8
-Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Multi,10.5,420
+Bloodborne,2015,Action-RPG,Sony,FromSoftware,Mobile,1.6,64.5
+Bloodborne,2015,Action-RPG,Sony,FromSoftware,Nintendo Switch,1.6,62.5
+Bloodborne,2015,Action-RPG,Sony,FromSoftware,Xbox One,1.5,58.9
+Bloodborne,2015,Action-RPG,Sony,FromSoftware,Xbox Series X,4.7,187.3
+Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Mobile,0.5,21
+Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Nintendo Switch,1.1,42
+Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,PC,2.1,84
 Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,PS4,3.7,147
 Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,PS5,3.7,147
 Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Xbox One,2.6,105
 Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Xbox Series X,2.6,105
-Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,PC,2.1,84
-Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Nintendo Switch,1.1,42
-Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Mobile,0.5,21
-Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,PS4,6.3,252
-Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,Xbox One,5.25,210
-Call of Duty: Black Ops III,2015,Shooter,Activision,Treyarch,PC,4.2,168
-FIFA 16,2015,Sports,EA,EA Sports,Multi,6.8,272
+FIFA 16,2015,Sports,EA,EA Sports,Mobile,0.3,13.6
+FIFA 16,2015,Sports,EA,EA Sports,Nintendo Switch,0.7,27.2
+FIFA 16,2015,Sports,EA,EA Sports,PC,1.4,54.4
 FIFA 16,2015,Sports,EA,EA Sports,PS4,2.4,95.2
 FIFA 16,2015,Sports,EA,EA Sports,PS5,2.4,95.2
 FIFA 16,2015,Sports,EA,EA Sports,Xbox One,1.7,68
 FIFA 16,2015,Sports,EA,EA Sports,Xbox Series X,1.7,68
-FIFA 16,2015,Sports,EA,EA Sports,PC,1.4,54.4
-FIFA 16,2015,Sports,EA,EA Sports,Nintendo Switch,0.7,27.2
-FIFA 16,2015,Sports,EA,EA Sports,Mobile,0.3,13.6
-FIFA 16,2015,Sports,EA,EA Sports,PS4,4.08,163.2
-FIFA 16,2015,Sports,EA,EA Sports,Xbox One,3.4,136
-Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,Multi,8.5,340
+Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,Mobile,0.4,17
+Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,Nintendo Switch,0.9,34
+Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,PC,1.7,68
 Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,PS4,3,119
 Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,PS5,3,119
 Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,Xbox One,2.1,85
 Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,Xbox Series X,2.1,85
-Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,PC,1.7,68
-Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,Nintendo Switch,0.9,34
-Fallout 4,2015,RPG,Bethesda,Bethesda Game Studios,Mobile,0.4,17
-Madden NFL 16,2015,Sports,EA,EA Tiburon,Multi,5.9,236
+Madden NFL 16,2015,Sports,EA,EA Tiburon,Mobile,0.3,11.8
+Madden NFL 16,2015,Sports,EA,EA Tiburon,Nintendo Switch,0.6,23.6
+Madden NFL 16,2015,Sports,EA,EA Tiburon,PC,1.2,47.2
 Madden NFL 16,2015,Sports,EA,EA Tiburon,PS4,2.1,82.6
 Madden NFL 16,2015,Sports,EA,EA Tiburon,PS5,2.1,82.6
 Madden NFL 16,2015,Sports,EA,EA Tiburon,Xbox One,1.5,59
 Madden NFL 16,2015,Sports,EA,EA Tiburon,Xbox Series X,1.5,59
-Madden NFL 16,2015,Sports,EA,EA Tiburon,PC,1.2,47.2
-Madden NFL 16,2015,Sports,EA,EA Tiburon,Nintendo Switch,0.6,23.6
-Madden NFL 16,2015,Sports,EA,EA Tiburon,Mobile,0.3,11.8
-Madden NFL 16,2015,Sports,EA,EA Tiburon,PS4,3.54,141.6
-Madden NFL 16,2015,Sports,EA,EA Tiburon,Xbox One,2.95,118
-Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,Multi,3.1,124
+Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,Mobile,0.2,6.2
+Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,Nintendo Switch,0.3,12.4
+Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,PC,0.6,24.8
 Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,PS4,1.1,43.4
 Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,PS5,1.1,43.4
 Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,Xbox One,0.8,31
 Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,Xbox Series X,0.8,31
-Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,PC,0.6,24.8
-Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,Nintendo Switch,0.3,12.4
-Metal Gear Solid V,2015,Action-Adventure,Konami,Kojima Productions,Mobile,0.2,6.2
-Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,Multi,3.2,128
+Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,Mobile,0.2,6.4
+Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,Nintendo Switch,0.3,12.8
+Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,PC,0.6,25.6
 Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,PS4,1.1,44.8
 Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,PS5,1.1,44.8
 Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,Xbox One,0.8,32
 Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,Xbox Series X,0.8,32
-Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,PC,0.6,25.6
-Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,Nintendo Switch,0.3,12.8
-Mortal Kombat X,2015,Fighting,WB Games,NetherRealm,Mobile,0.2,6.4
-NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Multi,5.5,220
+NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Mobile,0.3,11
+NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,22
+NBA 2K16,2015,Sports,2K Sports,Visual Concepts,PC,1.1,44
 NBA 2K16,2015,Sports,2K Sports,Visual Concepts,PS4,1.9,77
 NBA 2K16,2015,Sports,2K Sports,Visual Concepts,PS5,1.9,77
 NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Xbox One,1.4,55
 NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Xbox Series X,1.4,55
-NBA 2K16,2015,Sports,2K Sports,Visual Concepts,PC,1.1,44
-NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,22
-NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Mobile,0.3,11
-NBA 2K16,2015,Sports,2K Sports,Visual Concepts,PS4,3.3,132
-NBA 2K16,2015,Sports,2K Sports,Visual Concepts,Xbox One,2.75,110
-Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Multi,8.5,340
+Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Mobile,0.4,17
+Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Nintendo Switch,0.9,34
+Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,PC,1.7,68
 Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,PS4,3,119
 Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,PS5,3,119
 Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Xbox One,2.1,85
 Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Xbox Series X,2.1,85
-Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,PC,1.7,68
-Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Nintendo Switch,0.9,34
-Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Mobile,0.4,17
-Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,PS4,5.1,204
-Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,Xbox One,4.25,170
-Rainbow Six Siege,2015,Shooter,Ubisoft,Ubisoft,PC,3.4,136
-Star Wars Battlefront,2015,Shooter,EA,DICE,Multi,7,280
+Star Wars Battlefront,2015,Shooter,EA,DICE,Mobile,0.4,14
+Star Wars Battlefront,2015,Shooter,EA,DICE,Nintendo Switch,0.7,28
+Star Wars Battlefront,2015,Shooter,EA,DICE,PC,1.4,56
 Star Wars Battlefront,2015,Shooter,EA,DICE,PS4,2.4,98
 Star Wars Battlefront,2015,Shooter,EA,DICE,PS5,2.4,98
 Star Wars Battlefront,2015,Shooter,EA,DICE,Xbox One,1.8,70
 Star Wars Battlefront,2015,Shooter,EA,DICE,Xbox Series X,1.8,70
-Star Wars Battlefront,2015,Shooter,EA,DICE,PC,1.4,56
-Star Wars Battlefront,2015,Shooter,EA,DICE,Nintendo Switch,0.7,28
-Star Wars Battlefront,2015,Shooter,EA,DICE,Mobile,0.4,14
-Star Wars Battlefront,2015,Shooter,EA,DICE,PS4,4.2,168
-Star Wars Battlefront,2015,Shooter,EA,DICE,Xbox One,3.5,140
-Star Wars Battlefront,2015,Shooter,EA,DICE,PC,2.8,112
-The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,Multi,8,320
+The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,Mobile,0.4,16
+The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,Nintendo Switch,0.8,32
+The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,PC,1.6,64
 The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,PS4,2.8,112
 The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,PS5,2.8,112
 The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,Xbox One,2,80
 The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,Xbox Series X,2,80
-The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,PC,1.6,64
-The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,Nintendo Switch,0.8,32
-The Witcher 3: Wild Hunt,2015,RPG,CD Projekt,CD Projekt Red,Mobile,0.4,16
-Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Multi,3.9,156
+Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Mobile,0.2,7.8
+Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Nintendo Switch,0.4,15.6
+Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,PC,0.8,31.2
 Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,PS4,1.4,54.6
 Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,PS5,1.4,54.6
 Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Xbox One,1,39
 Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Xbox Series X,1,39
-Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,PC,0.8,31.2
-Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Nintendo Switch,0.4,15.6
-Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Mobile,0.2,7.8
-Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,PS4,2.34,93.6
-Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,Xbox One,1.95,78
-Tomb Raider,2015,Action-Adventure,Square Enix,Eidos,PC,1.56,62.4
-Battlefield 1,2016,Shooter,EA,DICE,Multi,7.3,292
+Battlefield 1,2016,Shooter,EA,DICE,Mobile,0.4,14.6
+Battlefield 1,2016,Shooter,EA,DICE,Nintendo Switch,0.7,29.2
+Battlefield 1,2016,Shooter,EA,DICE,PC,1.5,58.4
 Battlefield 1,2016,Shooter,EA,DICE,PS4,2.6,102.2
 Battlefield 1,2016,Shooter,EA,DICE,PS5,2.6,102.2
 Battlefield 1,2016,Shooter,EA,DICE,Xbox One,1.8,73
 Battlefield 1,2016,Shooter,EA,DICE,Xbox Series X,1.8,73
-Battlefield 1,2016,Shooter,EA,DICE,PC,1.5,58.4
-Battlefield 1,2016,Shooter,EA,DICE,Nintendo Switch,0.7,29.2
-Battlefield 1,2016,Shooter,EA,DICE,Mobile,0.4,14.6
-Battlefield 1,2016,Shooter,EA,DICE,PS4,4.38,175.2
-Battlefield 1,2016,Shooter,EA,DICE,Xbox One,3.65,146
-Battlefield 1,2016,Shooter,EA,DICE,PC,2.92,116.8
-Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Multi,9.8,392
+Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Mobile,0.5,19.6
+Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Nintendo Switch,1,39.2
+Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,PC,2,78.4
 Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,PS4,3.4,137.2
 Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,PS5,3.4,137.2
 Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Xbox One,2.5,98
 Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Xbox Series X,2.5,98
-Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,PC,2,78.4
-Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Nintendo Switch,1,39.2
-Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Mobile,0.5,19.6
-Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,PS4,5.88,235.2
-Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,Xbox One,4.9,196
-Call of Duty: Infinite Warfare,2016,Shooter,Activision,Infinity Ward,PC,3.92,156.8
-Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,Multi,2.9,116
+Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,Mobile,0.1,5.8
+Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,Nintendo Switch,0.3,11.6
+Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,PC,0.6,23.2
 Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,PS4,1,40.6
 Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,PS5,1,40.6
 Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,Xbox One,0.7,29
 Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,Xbox Series X,0.7,29
-Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,PC,0.6,23.2
-Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,Nintendo Switch,0.3,11.6
-Dark Souls III,2016,RPG,Bandai Namco,FromSoftware,Mobile,0.1,5.8
-Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,Multi,1.2,48
+Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,Mobile,0.1,2.4
+Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,Nintendo Switch,0.1,4.8
+Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,PC,0.2,9.6
 Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,PS4,0.4,16.8
 Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,PS5,0.4,16.8
 Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,Xbox One,0.3,12
 Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,Xbox Series X,0.3,12
-Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,PC,0.2,9.6
-Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,Nintendo Switch,0.1,4.8
-Dead Rising 4,2016,Action-Adventure,Capcom,Capcom,Mobile,0.1,2.4
-FIFA 17,2016,Sports,EA,EA Sports,Multi,7.1,284
+Dead by Daylight,2016,Horror,Behaviour Digital,Behaviour Digital,Mobile,1.5,58.6
+Dead by Daylight,2016,Horror,Behaviour Digital,Behaviour Digital,Nintendo Switch,1.6,65.9
+Dead by Daylight,2016,Horror,Behaviour Digital,Behaviour Digital,PC,2.8,112.4
+Dead by Daylight,2016,Horror,Behaviour Digital,Behaviour Digital,PS4,2.5,98.8
+Dead by Daylight,2016,Horror,Behaviour Digital,Behaviour Digital,PS5,1.8,72.5
+Dead by Daylight,2016,Horror,Behaviour Digital,Behaviour Digital,Xbox One,0.8,30.8
+Dead by Daylight,2016,Horror,Behaviour Digital,Behaviour Digital,Xbox Series X,4.6,182.1
+FIFA 17,2016,Sports,EA,EA Sports,Mobile,0.4,14.2
+FIFA 17,2016,Sports,EA,EA Sports,Nintendo Switch,0.7,28.4
+FIFA 17,2016,Sports,EA,EA Sports,PC,1.4,56.8
 FIFA 17,2016,Sports,EA,EA Sports,PS4,2.5,99.4
 FIFA 17,2016,Sports,EA,EA Sports,PS5,2.5,99.4
 FIFA 17,2016,Sports,EA,EA Sports,Xbox One,1.8,71
 FIFA 17,2016,Sports,EA,EA Sports,Xbox Series X,1.8,71
-FIFA 17,2016,Sports,EA,EA Sports,PC,1.4,56.8
-FIFA 17,2016,Sports,EA,EA Sports,Nintendo Switch,0.7,28.4
-FIFA 17,2016,Sports,EA,EA Sports,Mobile,0.4,14.2
-FIFA 17,2016,Sports,EA,EA Sports,PS4,4.26,170.4
-FIFA 17,2016,Sports,EA,EA Sports,Xbox One,3.55,142
-Madden NFL 17,2016,Sports,EA,EA Tiburon,Multi,6.4,256
+Final Fantasy XV,2016,RPG,Square Enix,Square Enix,Mobile,0.8,30.8
+Final Fantasy XV,2016,RPG,Square Enix,Square Enix,Nintendo Switch,0.8,30.8
+Final Fantasy XV,2016,RPG,Square Enix,Square Enix,PC,1.2,50
+Final Fantasy XV,2016,RPG,Square Enix,Square Enix,PS4,1.3,53.9
+Final Fantasy XV,2016,RPG,Square Enix,Square Enix,PS5,4.2,166.8
+Madden NFL 17,2016,Sports,EA,EA Tiburon,Mobile,0.3,12.8
+Madden NFL 17,2016,Sports,EA,EA Tiburon,Nintendo Switch,0.6,25.6
+Madden NFL 17,2016,Sports,EA,EA Tiburon,PC,1.3,51.2
 Madden NFL 17,2016,Sports,EA,EA Tiburon,PS4,2.2,89.6
 Madden NFL 17,2016,Sports,EA,EA Tiburon,PS5,2.2,89.6
 Madden NFL 17,2016,Sports,EA,EA Tiburon,Xbox One,1.6,64
 Madden NFL 17,2016,Sports,EA,EA Tiburon,Xbox Series X,1.6,64
-Madden NFL 17,2016,Sports,EA,EA Tiburon,PC,1.3,51.2
-Madden NFL 17,2016,Sports,EA,EA Tiburon,Nintendo Switch,0.6,25.6
-Madden NFL 17,2016,Sports,EA,EA Tiburon,Mobile,0.3,12.8
-Madden NFL 17,2016,Sports,EA,EA Tiburon,PS4,3.84,153.6
-Madden NFL 17,2016,Sports,EA,EA Tiburon,Xbox One,3.2,128
-NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Multi,5.6,224
+NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Mobile,0.3,11.2
+NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,22.4
+NBA 2K17,2016,Sports,2K Sports,Visual Concepts,PC,1.1,44.8
 NBA 2K17,2016,Sports,2K Sports,Visual Concepts,PS4,2,78.4
 NBA 2K17,2016,Sports,2K Sports,Visual Concepts,PS5,2,78.4
 NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Xbox One,1.4,56
 NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Xbox Series X,1.4,56
-NBA 2K17,2016,Sports,2K Sports,Visual Concepts,PC,1.1,44.8
-NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,22.4
-NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Mobile,0.3,11.2
-NBA 2K17,2016,Sports,2K Sports,Visual Concepts,PS4,3.36,134.4
-NBA 2K17,2016,Sports,2K Sports,Visual Concepts,Xbox One,2.8,112
-Overwatch,2016,Shooter,Blizzard,Blizzard,Multi,4.8,192
+Overwatch,2016,Shooter,Blizzard,Blizzard,Mobile,0.2,9.6
+Overwatch,2016,Shooter,Blizzard,Blizzard,Nintendo Switch,0.5,19.2
+Overwatch,2016,Shooter,Blizzard,Blizzard,PC,1,38.4
 Overwatch,2016,Shooter,Blizzard,Blizzard,PS4,1.7,67.2
 Overwatch,2016,Shooter,Blizzard,Blizzard,PS5,1.7,67.2
 Overwatch,2016,Shooter,Blizzard,Blizzard,Xbox One,1.2,48
 Overwatch,2016,Shooter,Blizzard,Blizzard,Xbox Series X,1.2,48
-Overwatch,2016,Shooter,Blizzard,Blizzard,PC,1,38.4
-Overwatch,2016,Shooter,Blizzard,Blizzard,Nintendo Switch,0.5,19.2
-Overwatch,2016,Shooter,Blizzard,Blizzard,Mobile,0.2,9.6
+Persona 5,2016,RPG,Atlus,Atlus,Nintendo Switch,2.4,96.2
+Persona 5,2016,RPG,Atlus,Atlus,PS4,1.3,50.4
+Persona 5,2016,RPG,Atlus,Atlus,Xbox One,0.9,34.5
+Persona 5,2016,RPG,Atlus,Atlus,Xbox Series X,1.5,59.6
 Pokémon Sun & Moon,2016,RPG,Nintendo,Game Freak,3DS,4.2,168
-Street Fighter 5,2016,Fighting,Capcom,Capcom,Multi,2.3,92
+Street Fighter 5,2016,Fighting,Capcom,Capcom,Mobile,0.1,4.6
+Street Fighter 5,2016,Fighting,Capcom,Capcom,Nintendo Switch,0.2,9.2
+Street Fighter 5,2016,Fighting,Capcom,Capcom,PC,0.5,18.4
 Street Fighter 5,2016,Fighting,Capcom,Capcom,PS4,0.8,32.2
 Street Fighter 5,2016,Fighting,Capcom,Capcom,PS5,0.8,32.2
 Street Fighter 5,2016,Fighting,Capcom,Capcom,Xbox One,0.6,23
 Street Fighter 5,2016,Fighting,Capcom,Capcom,Xbox Series X,0.6,23
-Street Fighter 5,2016,Fighting,Capcom,Capcom,PC,0.5,18.4
-Street Fighter 5,2016,Fighting,Capcom,Capcom,Nintendo Switch,0.2,9.2
-Street Fighter 5,2016,Fighting,Capcom,Capcom,Mobile,0.1,4.6
-The Division,2016,Shooter,Ubisoft,Ubisoft,Multi,2.5,100
+The Division,2016,Shooter,Ubisoft,Ubisoft,Mobile,0.1,5
+The Division,2016,Shooter,Ubisoft,Ubisoft,Nintendo Switch,0.2,10
+The Division,2016,Shooter,Ubisoft,Ubisoft,PC,0.5,20
 The Division,2016,Shooter,Ubisoft,Ubisoft,PS4,0.9,35
 The Division,2016,Shooter,Ubisoft,Ubisoft,PS5,0.9,35
 The Division,2016,Shooter,Ubisoft,Ubisoft,Xbox One,0.6,25
 The Division,2016,Shooter,Ubisoft,Ubisoft,Xbox Series X,0.6,25
-The Division,2016,Shooter,Ubisoft,Ubisoft,PC,0.5,20
-The Division,2016,Shooter,Ubisoft,Ubisoft,Nintendo Switch,0.2,10
-The Division,2016,Shooter,Ubisoft,Ubisoft,Mobile,0.1,5
-The Division,2016,Shooter,Ubisoft,Ubisoft,PS4,1.5,60
-The Division,2016,Shooter,Ubisoft,Ubisoft,Xbox One,1.25,50
-The Division,2016,Shooter,Ubisoft,Ubisoft,PC,1,40
 The Legend of Zelda: Twilight Princess,2016,Action-Adventure,Nintendo,Nintendo,Wii U,1.8,72
 Uncharted 4,2016,Action-Adventure,Sony,Naughty Dog,PS4,6.5,260
-Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Multi,3.5,140
+Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,7
+Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,14
+Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,PC,0.7,28
 Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,PS4,1.2,49
 Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,PS5,1.2,49
 Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Xbox One,0.9,35
 Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,0.9,35
-Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,PC,0.7,28
-Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,14
-Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,7
-Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,PS4,2.1,84
-Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1.75,70
-Assassin's Creed Origins,2017,Action-Adventure,Ubisoft,Ubisoft,PC,1.4,56
-Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Multi,10.2,408
+Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Mobile,0.5,20.4
+Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Nintendo Switch,1,40.8
+Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,PC,2,81.6
 Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,PS4,3.6,142.8
 Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,PS5,3.6,142.8
 Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Xbox One,2.5,102
 Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Xbox Series X,2.5,102
-Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,PC,2,81.6
-Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Nintendo Switch,1,40.8
-Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Mobile,0.5,20.4
-Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,PS4,6.12,244.8
-Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,Xbox One,5.1,204
-Call of Duty: WWII,2017,Shooter,Activision,Sledgehammer Games,PC,4.08,163.2
-Destiny 2,2017,Shooter,Activision,Bungie,Multi,6.3,252
+Destiny 2,2017,Shooter,Activision,Bungie,Mobile,0.3,12.6
+Destiny 2,2017,Shooter,Activision,Bungie,Nintendo Switch,0.6,25.2
+Destiny 2,2017,Shooter,Activision,Bungie,PC,1.3,50.4
 Destiny 2,2017,Shooter,Activision,Bungie,PS4,2.2,88.2
 Destiny 2,2017,Shooter,Activision,Bungie,PS5,2.2,88.2
 Destiny 2,2017,Shooter,Activision,Bungie,Xbox One,1.6,63
 Destiny 2,2017,Shooter,Activision,Bungie,Xbox Series X,1.6,63
-Destiny 2,2017,Shooter,Activision,Bungie,PC,1.3,50.4
-Destiny 2,2017,Shooter,Activision,Bungie,Nintendo Switch,0.6,25.2
-Destiny 2,2017,Shooter,Activision,Bungie,Mobile,0.3,12.6
-Destiny 2,2017,Shooter,Activision,Bungie,PS4,3.78,151.2
-Destiny 2,2017,Shooter,Activision,Bungie,Xbox One,3.15,126
-Destiny 2,2017,Shooter,Activision,Bungie,PC,2.52,100.8
-Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Multi,3.5,140
+Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Mobile,0.2,7
+Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Nintendo Switch,0.4,14
+Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,PC,0.7,28
 Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,PS4,1.2,49
 Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,PS5,1.2,49
 Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Xbox One,0.9,35
 Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Xbox Series X,0.9,35
-Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,PC,0.7,28
-Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Nintendo Switch,0.4,14
-Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Mobile,0.2,7
-Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,PS4,2.1,84
-Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,Xbox One,1.75,70
-Dragon Quest XI,2017,RPG,Square Enix,Dragon Quest,PC,1.4,56
-FIFA 18,2017,Sports,EA,EA Sports,Multi,7.5,300
+Evil Resident 7,2017,Horror,Capcom,Capcom,Mobile,1.5,60.1
+Evil Resident 7,2017,Horror,Capcom,Capcom,Nintendo Switch,4.9,196.1
+Evil Resident 7,2017,Horror,Capcom,Capcom,PS4,4.2,166.9
+Evil Resident 7,2017,Horror,Capcom,Capcom,PS5,2.4,97.9
+Evil Resident 7,2017,Horror,Capcom,Capcom,Xbox One,2.1,85.1
+FIFA 18,2017,Sports,EA,EA Sports,Mobile,0.4,15
+FIFA 18,2017,Sports,EA,EA Sports,Nintendo Switch,0.8,30
+FIFA 18,2017,Sports,EA,EA Sports,PC,1.5,60
 FIFA 18,2017,Sports,EA,EA Sports,PS4,2.6,105
 FIFA 18,2017,Sports,EA,EA Sports,PS5,2.6,105
 FIFA 18,2017,Sports,EA,EA Sports,Xbox One,1.9,75
 FIFA 18,2017,Sports,EA,EA Sports,Xbox Series X,1.9,75
-FIFA 18,2017,Sports,EA,EA Sports,PC,1.5,60
-FIFA 18,2017,Sports,EA,EA Sports,Nintendo Switch,0.8,30
-FIFA 18,2017,Sports,EA,EA Sports,Mobile,0.4,15
-FIFA 18,2017,Sports,EA,EA Sports,PS4,4.5,180
-FIFA 18,2017,Sports,EA,EA Sports,Xbox One,3.75,150
-Madden NFL 18,2017,Sports,EA,EA Tiburon,Multi,6.8,272
+Madden NFL 18,2017,Sports,EA,EA Tiburon,Mobile,0.3,13.6
+Madden NFL 18,2017,Sports,EA,EA Tiburon,Nintendo Switch,0.7,27.2
+Madden NFL 18,2017,Sports,EA,EA Tiburon,PC,1.4,54.4
 Madden NFL 18,2017,Sports,EA,EA Tiburon,PS4,2.4,95.2
 Madden NFL 18,2017,Sports,EA,EA Tiburon,PS5,2.4,95.2
 Madden NFL 18,2017,Sports,EA,EA Tiburon,Xbox One,1.7,68
 Madden NFL 18,2017,Sports,EA,EA Tiburon,Xbox Series X,1.7,68
-Madden NFL 18,2017,Sports,EA,EA Tiburon,PC,1.4,54.4
-Madden NFL 18,2017,Sports,EA,EA Tiburon,Nintendo Switch,0.7,27.2
-Madden NFL 18,2017,Sports,EA,EA Tiburon,Mobile,0.3,13.6
-Madden NFL 18,2017,Sports,EA,EA Tiburon,PS4,4.08,163.2
-Madden NFL 18,2017,Sports,EA,EA Tiburon,Xbox One,3.4,136
-NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Multi,5.9,236
+NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Mobile,0.3,11.8
+NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,23.6
+NBA 2K18,2017,Sports,2K Sports,Visual Concepts,PC,1.2,47.2
 NBA 2K18,2017,Sports,2K Sports,Visual Concepts,PS4,2.1,82.6
 NBA 2K18,2017,Sports,2K Sports,Visual Concepts,PS5,2.1,82.6
 NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Xbox One,1.5,59
 NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Xbox Series X,1.5,59
-NBA 2K18,2017,Sports,2K Sports,Visual Concepts,PC,1.2,47.2
-NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,23.6
-NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Mobile,0.3,11.8
-NBA 2K18,2017,Sports,2K Sports,Visual Concepts,PS4,3.54,141.6
-NBA 2K18,2017,Sports,2K Sports,Visual Concepts,Xbox One,2.95,118
-Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Multi,2.5,100
+Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Mobile,0.1,5
+Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Nintendo Switch,0.2,10
+Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,PC,0.5,20
 Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,PS4,0.9,35
 Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,PS5,0.9,35
 Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Xbox One,0.6,25
 Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Xbox Series X,0.6,25
-Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,PC,0.5,20
-Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Nintendo Switch,0.2,10
-Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Mobile,0.1,5
-Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,PS4,1.5,60
-Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,Xbox One,1.25,50
-Nier: Automata,2017,Action-RPG,Square Enix,PlatinumGames,PC,1,40
 Persona 5,2017,RPG,Atlus,Atlus,PS4,2.8,112
 PlayerUnknown's Battlegrounds,2017,Battle Royale,PUBG Corp,Bluehole,PC/Console,15,600
 Super Mario Odyssey,2017,Platformer,Nintendo,Nintendo,Switch,4.5,180
 The Legend of Zelda: Breath of the Wild,2017,Action-Adventure,Nintendo,Nintendo,Switch,8.5,340
-Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Multi,3.9,156
+Zelda: Phantom Hourglass,2017,Action-Adventure,Nintendo,Nintendo,Nintendo Switch,1.2,48
+A Way Out,2018,Action-Adventure,EA,Hazelight Studios,Nintendo Switch,0.8,31.9
+A Way Out,2018,Action-Adventure,EA,Hazelight Studios,PS5,2.1,82
+A Way Out,2018,Action-Adventure,EA,Hazelight Studios,Xbox One,4.3,170.2
+Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,7.8
+Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,15.6
+Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,PC,0.8,31.2
 Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,PS4,1.4,54.6
 Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,PS5,1.4,54.6
 Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1,39
 Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,1,39
-Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,PC,0.8,31.2
-Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.4,15.6
-Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,7.8
-Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,PS4,2.34,93.6
-Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1.95,78
-Assassin's Creed Odyssey,2018,Action-Adventure,Ubisoft,Ubisoft,PC,1.56,62.4
-Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Multi,9.5,380
+BlazBlue Cross Tag Battle,2018,Fighting,Arc System Works,Arc System Works,Nintendo Switch,0.4,16
+Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Mobile,0.5,19
+Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Nintendo Switch,1,38
+Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,PC,1.9,76
 Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,PS4,3.3,133
 Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,PS5,3.3,133
 Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Xbox One,2.4,95
 Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Xbox Series X,2.4,95
-Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,PC,1.9,76
-Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Nintendo Switch,1,38
-Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Mobile,0.5,19
-Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,PS4,5.7,228
-Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,Xbox One,4.75,190
-Call of Duty: Black Ops 4,2018,Shooter,Activision,Treyarch,PC,3.8,152
-FIFA 19,2018,Sports,EA,EA Sports,Multi,7.8,312
+Donkey Kong Country: Tropical Freeze,2018,Platformer,Nintendo,Rare,Nintendo Switch,1.8,72
+FIFA 19,2018,Sports,EA,EA Sports,Mobile,0.4,15.6
+FIFA 19,2018,Sports,EA,EA Sports,Nintendo Switch,0.8,31.2
+FIFA 19,2018,Sports,EA,EA Sports,PC,1.6,62.4
 FIFA 19,2018,Sports,EA,EA Sports,PS4,2.7,109.2
 FIFA 19,2018,Sports,EA,EA Sports,PS5,2.7,109.2
 FIFA 19,2018,Sports,EA,EA Sports,Xbox One,1.9,78
 FIFA 19,2018,Sports,EA,EA Sports,Xbox Series X,1.9,78
-FIFA 19,2018,Sports,EA,EA Sports,PC,1.6,62.4
-FIFA 19,2018,Sports,EA,EA Sports,Nintendo Switch,0.8,31.2
-FIFA 19,2018,Sports,EA,EA Sports,Mobile,0.4,15.6
-FIFA 19,2018,Sports,EA,EA Sports,PS4,4.68,187.2
-FIFA 19,2018,Sports,EA,EA Sports,Xbox One,3.9,156
-Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Multi,3.2,128
+Fallout 76,2018,Action-RPG,Bethesda,Bethesda Game Studios,Mobile,1,39.5
+Fallout 76,2018,Action-RPG,Bethesda,Bethesda Game Studios,Nintendo Switch,3.4,134.7
+Fallout 76,2018,Action-RPG,Bethesda,Bethesda Game Studios,PC,6.1,245.7
+Fallout 76,2018,Action-RPG,Bethesda,Bethesda Game Studios,PS4,1.1,45
+Fallout 76,2018,Action-RPG,Bethesda,Bethesda Game Studios,PS5,2.2,88.1
+Fallout 76,2018,Action-RPG,Bethesda,Bethesda Game Studios,Xbox One,2.7,109.9
+Fallout 76,2018,Action-RPG,Bethesda,Bethesda Game Studios,Xbox Series X,2.7,109.2
+Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,6.4
+Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.3,12.8
+Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,PC,0.6,25.6
 Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,PS4,1.1,44.8
 Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,PS5,1.1,44.8
 Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Xbox One,0.8,32
 Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,0.8,32
-Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,PC,0.6,25.6
-Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.3,12.8
-Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,6.4
-Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,PS4,1.92,76.8
-Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1.6,64
-Far Cry 5,2018,Action-Adventure,Ubisoft,Ubisoft,PC,1.28,51.2
-Fortnite,2018,Battle Royale,Epic Games,Epic Games,Multi,8,320
+Fortnite,2018,Battle Royale,Epic Games,Epic Games,Mobile,0.4,16
+Fortnite,2018,Battle Royale,Epic Games,Epic Games,Nintendo Switch,0.8,32
+Fortnite,2018,Battle Royale,Epic Games,Epic Games,PC,1.6,64
 Fortnite,2018,Battle Royale,Epic Games,Epic Games,PS4,2.8,112
 Fortnite,2018,Battle Royale,Epic Games,Epic Games,PS5,2.8,112
 Fortnite,2018,Battle Royale,Epic Games,Epic Games,Xbox One,2,80
 Fortnite,2018,Battle Royale,Epic Games,Epic Games,Xbox Series X,2,80
-Fortnite,2018,Battle Royale,Epic Games,Epic Games,PC,1.6,64
-Fortnite,2018,Battle Royale,Epic Games,Epic Games,Nintendo Switch,0.8,32
-Fortnite,2018,Battle Royale,Epic Games,Epic Games,Mobile,0.4,16
 God of War,2018,Action-Adventure,Sony,Santa Monica,PS4,9.5,380
-Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Multi,1.5,60
+Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Mobile,0.1,3
+Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Nintendo Switch,0.2,6
+Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,PC,0.3,12
 Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,PS4,0.5,21
 Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,PS5,0.5,21
 Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Xbox One,0.4,15
 Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Xbox Series X,0.4,15
-Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,PC,0.3,12
-Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Nintendo Switch,0.2,6
-Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Mobile,0.1,3
-Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,PS4,0.9,36
-Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,Xbox One,0.75,30
-Just Cause 4,2018,Action-Adventure,Square Enix,Avalanche Studios,PC,0.6,24
-Madden NFL 19,2018,Sports,EA,EA Tiburon,Multi,7,280
+Madden NFL 19,2018,Sports,EA,EA Tiburon,Mobile,0.4,14
+Madden NFL 19,2018,Sports,EA,EA Tiburon,Nintendo Switch,0.7,28
+Madden NFL 19,2018,Sports,EA,EA Tiburon,PC,1.4,56
 Madden NFL 19,2018,Sports,EA,EA Tiburon,PS4,2.4,98
 Madden NFL 19,2018,Sports,EA,EA Tiburon,PS5,2.4,98
 Madden NFL 19,2018,Sports,EA,EA Tiburon,Xbox One,1.8,70
 Madden NFL 19,2018,Sports,EA,EA Tiburon,Xbox Series X,1.8,70
-Madden NFL 19,2018,Sports,EA,EA Tiburon,PC,1.4,56
-Madden NFL 19,2018,Sports,EA,EA Tiburon,Nintendo Switch,0.7,28
-Madden NFL 19,2018,Sports,EA,EA Tiburon,Mobile,0.4,14
-Madden NFL 19,2018,Sports,EA,EA Tiburon,PS4,4.2,168
-Madden NFL 19,2018,Sports,EA,EA Tiburon,Xbox One,3.5,140
-Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,Multi,8.5,340
+Marvel vs Capcom 3,2018,Fighting,Capcom,Capcom,PS4,1.8,72
+Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,Mobile,0.4,17
+Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,Nintendo Switch,0.9,34
+Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,PC,1.7,68
 Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,PS4,3,119
 Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,PS5,3,119
 Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,Xbox One,2.1,85
 Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,Xbox Series X,2.1,85
-Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,PC,1.7,68
-Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,Nintendo Switch,0.9,34
-Monster Hunter: World,2018,Action-RPG,Capcom,Capcom,Mobile,0.4,17
-NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Multi,6.1,244
+NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.2
+NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,24.4
+NBA 2K19,2018,Sports,2K Sports,Visual Concepts,PC,1.2,48.8
 NBA 2K19,2018,Sports,2K Sports,Visual Concepts,PS4,2.1,85.4
 NBA 2K19,2018,Sports,2K Sports,Visual Concepts,PS5,2.1,85.4
 NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Xbox One,1.5,61
 NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Xbox Series X,1.5,61
-NBA 2K19,2018,Sports,2K Sports,Visual Concepts,PC,1.2,48.8
-NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,24.4
-NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.2
-NBA 2K19,2018,Sports,2K Sports,Visual Concepts,PS4,3.66,146.4
-NBA 2K19,2018,Sports,2K Sports,Visual Concepts,Xbox One,3.05,122
-Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Multi,14,560
+Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Mobile,0.7,28
+Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Nintendo Switch,1.4,56
+Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,PC,2.8,112
 Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,PS4,4.9,196
 Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,PS5,4.9,196
 Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Xbox One,3.5,140
 Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Xbox Series X,3.5,140
-Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,PC,2.8,112
-Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Nintendo Switch,1.4,56
-Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Mobile,0.7,28
-Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,PS4,8.4,336
-Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,Xbox One,7,280
-Red Dead Redemption 2,2018,Action-Adventure,Rockstar Games,Rockstar Games,PC,5.6,224
+Soul Calibur VI,2018,Fighting,Bandai Namco,Bandai Namco,Mobile,1.9,77.7
+Soul Calibur VI,2018,Fighting,Bandai Namco,Bandai Namco,Nintendo Switch,4,160.8
+Soul Calibur VI,2018,Fighting,Bandai Namco,Bandai Namco,PC,3.6,143.6
+Soul Calibur VI,2018,Fighting,Bandai Namco,Bandai Namco,Xbox One,1.3,52.6
+Soul Calibur VI,2018,Fighting,Bandai Namco,Bandai Namco,Xbox Series X,1.8,71.3
 Spider-Man,2018,Action-Adventure,Sony,Insomniac,PS4,9,360
 Super Smash Bros Ultimate,2018,Fighting,Nintendo,Nintendo,Switch,10.5,420
-Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Multi,11.2,448
+Apex Legends,2019,Battle Royale,EA,Respawn,PC,4.5,180
+Apex Legends,2019,Battle Royale,EA,Respawn,PS4,3.2,128
+Apex Legends,2019,Battle Royale,EA,Respawn,Xbox One,2.8,112
+Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Mobile,0.6,22.4
+Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Nintendo Switch,1.1,44.8
+Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,PC,2.2,89.6
 Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,PS4,3.9,156.8
 Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,PS5,3.9,156.8
 Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Xbox One,2.8,112
 Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Xbox Series X,2.8,112
-Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,PC,2.2,89.6
-Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Nintendo Switch,1.1,44.8
-Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Mobile,0.6,22.4
-Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,PS4,6.72,268.8
-Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,Xbox One,5.6,224
-Call of Duty: Modern Warfare,2019,Shooter,Activision,Infinity Ward,PC,4.48,179.2
 Death Stranding,2019,Action,Sony,Kojima Productions,PS4,3.5,140
-Devil May Cry 5,2019,Action,Capcom,Capcom,Multi,2.1,84
+Devil May Cry 5,2019,Action,Capcom,Capcom,Mobile,0.1,4.2
+Devil May Cry 5,2019,Action,Capcom,Capcom,Nintendo Switch,0.2,8.4
+Devil May Cry 5,2019,Action,Capcom,Capcom,PC,0.4,16.8
 Devil May Cry 5,2019,Action,Capcom,Capcom,PS4,0.7,29.4
 Devil May Cry 5,2019,Action,Capcom,Capcom,PS5,0.7,29.4
 Devil May Cry 5,2019,Action,Capcom,Capcom,Xbox One,0.5,21
 Devil May Cry 5,2019,Action,Capcom,Capcom,Xbox Series X,0.5,21
-Devil May Cry 5,2019,Action,Capcom,Capcom,PC,0.4,16.8
-Devil May Cry 5,2019,Action,Capcom,Capcom,Nintendo Switch,0.2,8.4
-Devil May Cry 5,2019,Action,Capcom,Capcom,Mobile,0.1,4.2
-FIFA 20,2019,Sports,EA,EA Sports,Multi,8.1,324
+FIFA 20,2019,Sports,EA,EA Sports,Mobile,0.4,16.2
+FIFA 20,2019,Sports,EA,EA Sports,Nintendo Switch,0.8,32.4
+FIFA 20,2019,Sports,EA,EA Sports,PC,1.6,64.8
 FIFA 20,2019,Sports,EA,EA Sports,PS4,2.8,113.4
 FIFA 20,2019,Sports,EA,EA Sports,PS5,2.8,113.4
 FIFA 20,2019,Sports,EA,EA Sports,Xbox One,2,81
 FIFA 20,2019,Sports,EA,EA Sports,Xbox Series X,2,81
-FIFA 20,2019,Sports,EA,EA Sports,PC,1.6,64.8
-FIFA 20,2019,Sports,EA,EA Sports,Nintendo Switch,0.8,32.4
-FIFA 20,2019,Sports,EA,EA Sports,Mobile,0.4,16.2
-FIFA 20,2019,Sports,EA,EA Sports,PS4,4.86,194.4
-FIFA 20,2019,Sports,EA,EA Sports,Xbox One,4.05,162
+Fire Emblem: Three Houses,2019,Strategy-RPG,Nintendo,Intelligent Systems,Nintendo Switch,3.2,128
 Gears 5,2019,Shooter,Microsoft,The Coalition,Xbox,2.1,84
-Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Multi,2.5,100
+Granblue Fantasy Versus,2019,Fighting,Cygames,Arc System Works,PS4,0.5,20
+Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Mobile,0.1,5
+Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Nintendo Switch,0.2,10
+Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,PC,0.5,20
 Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,PS4,0.9,35
 Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,PS5,0.9,35
 Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Xbox One,0.6,25
 Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Xbox Series X,0.6,25
-Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,PC,0.5,20
-Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Nintendo Switch,0.2,10
-Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Mobile,0.1,5
-Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,PS4,1.5,60
-Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,Xbox One,1.25,50
-Kingdom Hearts 3,2019,Action-RPG,Square Enix,Square Enix,PC,1,40
 Luigis Mansion 3,2019,Adventure,Nintendo,Next Level Games,Switch,3.8,152
-Madden NFL 20,2019,Sports,EA,EA Tiburon,Multi,7.2,288
+Madden NFL 20,2019,Sports,EA,EA Tiburon,Mobile,0.4,14.4
+Madden NFL 20,2019,Sports,EA,EA Tiburon,Nintendo Switch,0.7,28.8
+Madden NFL 20,2019,Sports,EA,EA Tiburon,PC,1.4,57.6
 Madden NFL 20,2019,Sports,EA,EA Tiburon,PS4,2.5,100.8
 Madden NFL 20,2019,Sports,EA,EA Tiburon,PS5,2.5,100.8
 Madden NFL 20,2019,Sports,EA,EA Tiburon,Xbox One,1.8,72
 Madden NFL 20,2019,Sports,EA,EA Tiburon,Xbox Series X,1.8,72
-Madden NFL 20,2019,Sports,EA,EA Tiburon,PC,1.4,57.6
-Madden NFL 20,2019,Sports,EA,EA Tiburon,Nintendo Switch,0.7,28.8
-Madden NFL 20,2019,Sports,EA,EA Tiburon,Mobile,0.4,14.4
-Madden NFL 20,2019,Sports,EA,EA Tiburon,PS4,4.32,172.8
-Madden NFL 20,2019,Sports,EA,EA Tiburon,Xbox One,3.6,144
-NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Multi,6.3,252
+NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.6
+NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,25.2
+NBA 2K20,2019,Sports,2K Sports,Visual Concepts,PC,1.3,50.4
 NBA 2K20,2019,Sports,2K Sports,Visual Concepts,PS4,2.2,88.2
 NBA 2K20,2019,Sports,2K Sports,Visual Concepts,PS5,2.2,88.2
 NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Xbox One,1.6,63
 NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Xbox Series X,1.6,63
-NBA 2K20,2019,Sports,2K Sports,Visual Concepts,PC,1.3,50.4
-NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,25.2
-NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.6
-NBA 2K20,2019,Sports,2K Sports,Visual Concepts,PS4,3.78,151.2
-NBA 2K20,2019,Sports,2K Sports,Visual Concepts,Xbox One,3.15,126
+Persona 5 Royal,2019,RPG,Atlus,Atlus,Mobile,1.7,69.6
+Persona 5 Royal,2019,RPG,Atlus,Atlus,Nintendo Switch,2.2,89.3
+Persona 5 Royal,2019,RPG,Atlus,Atlus,PS4,4.2,168.2
+Persona 5 Royal,2019,RPG,Atlus,Atlus,PS5,2,78.7
+Persona 5 Royal,2019,RPG,Atlus,Atlus,Xbox One,3.6,143
 Pokemon Sword & Shield,2019,RPG,Nintendo,Game Freak,Switch,17.3,692
-Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,Multi,3.5,140
+Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,Mobile,0.2,7
+Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,Nintendo Switch,0.4,14
+Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,PC,0.7,28
 Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,PS4,1.2,49
 Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,PS5,1.2,49
 Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,Xbox One,0.9,35
 Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,Xbox Series X,0.9,35
-Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,PC,0.7,28
-Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,Nintendo Switch,0.4,14
-Resident Evil 2 Remake,2019,Horror,Capcom,Capcom,Mobile,0.2,7
-The Division 2,2019,Shooter,Ubisoft,Ubisoft,Multi,1.8,72
+Sekiro: Shadows Die Twice,2019,Action-RPG,Activision,FromSoftware,Mobile,1.3,52.3
+Sekiro: Shadows Die Twice,2019,Action-RPG,Activision,FromSoftware,Nintendo Switch,1.5,59.4
+Sekiro: Shadows Die Twice,2019,Action-RPG,Activision,FromSoftware,PC,1.8,73.6
+Sekiro: Shadows Die Twice,2019,Action-RPG,Activision,FromSoftware,PS4,4.3,172.4
+Sekiro: Shadows Die Twice,2019,Action-RPG,Activision,FromSoftware,PS5,2.8,112
+Sekiro: Shadows Die Twice,2019,Action-RPG,Activision,FromSoftware,Xbox One,1.1,44.9
+Sekiro: Shadows Die Twice,2019,Action-RPG,Activision,FromSoftware,Xbox Series X,4.4,176.3
+The Division 2,2019,Shooter,Ubisoft,Ubisoft,Mobile,0.1,3.6
+The Division 2,2019,Shooter,Ubisoft,Ubisoft,Nintendo Switch,0.2,7.2
+The Division 2,2019,Shooter,Ubisoft,Ubisoft,PC,0.4,14.4
 The Division 2,2019,Shooter,Ubisoft,Ubisoft,PS4,0.6,25.2
 The Division 2,2019,Shooter,Ubisoft,Ubisoft,PS5,0.6,25.2
 The Division 2,2019,Shooter,Ubisoft,Ubisoft,Xbox One,0.5,18
 The Division 2,2019,Shooter,Ubisoft,Ubisoft,Xbox Series X,0.5,18
-The Division 2,2019,Shooter,Ubisoft,Ubisoft,PC,0.4,14.4
-The Division 2,2019,Shooter,Ubisoft,Ubisoft,Nintendo Switch,0.2,7.2
-The Division 2,2019,Shooter,Ubisoft,Ubisoft,Mobile,0.1,3.6
-The Division 2,2019,Shooter,Ubisoft,Ubisoft,PS4,1.08,43.2
-The Division 2,2019,Shooter,Ubisoft,Ubisoft,Xbox One,0.9,36
-The Division 2,2019,Shooter,Ubisoft,Ubisoft,PC,0.72,28.8
-The Outer Worlds,2019,RPG,Microsoft,Obsidian,Multi,3.2,128
+The Outer Worlds,2019,RPG,Microsoft,Obsidian,Mobile,0.2,6.4
+The Outer Worlds,2019,RPG,Microsoft,Obsidian,Nintendo Switch,0.3,12.8
+The Outer Worlds,2019,RPG,Microsoft,Obsidian,PC,0.6,25.6
 The Outer Worlds,2019,RPG,Microsoft,Obsidian,PS4,1.1,44.8
 The Outer Worlds,2019,RPG,Microsoft,Obsidian,PS5,1.1,44.8
 The Outer Worlds,2019,RPG,Microsoft,Obsidian,Xbox One,0.8,32
 The Outer Worlds,2019,RPG,Microsoft,Obsidian,Xbox Series X,0.8,32
-The Outer Worlds,2019,RPG,Microsoft,Obsidian,PC,0.6,25.6
-The Outer Worlds,2019,RPG,Microsoft,Obsidian,Nintendo Switch,0.3,12.8
-The Outer Worlds,2019,RPG,Microsoft,Obsidian,Mobile,0.2,6.4
 Animal Crossing: New Horizons,2020,Simulation,Nintendo,Nintendo,Switch,12.5,500
-Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Multi,4.7,188
+Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,9.4
+Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.5,18.8
+Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,PC,0.9,37.6
 Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,PS4,1.6,65.8
 Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,PS5,1.6,65.8
 Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1.2,47
 Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,1.2,47
-Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,PC,0.9,37.6
-Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.5,18.8
-Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.2,9.4
-Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,PS4,2.82,112.8
-Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,Xbox One,2.35,94
-Assassin's Creed Valhalla,2020,Action-Adventure,Ubisoft,Ubisoft,PC,1.88,75.2
-Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Multi,10.5,420
+Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Mobile,0.5,21
+Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Nintendo Switch,1.1,42
+Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,PC,2.1,84
 Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,PS4,3.7,147
 Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,PS5,3.7,147
 Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Xbox One,2.6,105
 Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Xbox Series X,2.6,105
-Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,PC,2.1,84
-Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Nintendo Switch,1.1,42
-Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Mobile,0.5,21
-Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,PS4,6.3,252
-Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,Xbox One,5.25,210
-Call of Duty: Black Ops Cold War,2020,Shooter,Activision,Treyarch,PC,4.2,168
-Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,Multi,13,520
+Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,Mobile,0.7,26
+Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,Nintendo Switch,1.3,52
+Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,PC,2.6,104
 Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,PS4,4.5,182
 Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,PS5,4.5,182
 Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,Xbox One,3.2,130
 Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,Xbox Series X,3.2,130
-Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,PC,2.6,104
-Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,Nintendo Switch,1.3,52
-Cyberpunk 2077,2020,Action-RPG,CD Projekt,CD Projekt Red,Mobile,0.7,26
-FIFA 21,2020,Sports,EA,EA Sports,Multi,8.4,336
+Demon's Souls,2020,Action-RPG,Sony,Bluepoint Games,Mobile,1.9,77.3
+Demon's Souls,2020,Action-RPG,Sony,Bluepoint Games,Nintendo Switch,1.8,71.3
+Demon's Souls,2020,Action-RPG,Sony,Bluepoint Games,PC,4.4,175.7
+Demon's Souls,2020,Action-RPG,Sony,Bluepoint Games,PS5,2.5,101
+Demon's Souls,2020,Action-RPG,Sony,Bluepoint Games,Xbox One,1.9,75.9
+Demon's Souls,2020,Action-RPG,Sony,Bluepoint Games,Xbox Series X,3.8,151.3
+FIFA 21,2020,Sports,EA,EA Sports,Mobile,0.4,16.8
+FIFA 21,2020,Sports,EA,EA Sports,Nintendo Switch,0.8,33.6
+FIFA 21,2020,Sports,EA,EA Sports,PC,1.7,67.2
 FIFA 21,2020,Sports,EA,EA Sports,PS4,2.9,117.6
 FIFA 21,2020,Sports,EA,EA Sports,PS5,2.9,117.6
 FIFA 21,2020,Sports,EA,EA Sports,Xbox One,2.1,84
 FIFA 21,2020,Sports,EA,EA Sports,Xbox Series X,2.1,84
-FIFA 21,2020,Sports,EA,EA Sports,PC,1.7,67.2
-FIFA 21,2020,Sports,EA,EA Sports,Nintendo Switch,0.8,33.6
-FIFA 21,2020,Sports,EA,EA Sports,Mobile,0.4,16.8
-FIFA 21,2020,Sports,EA,EA Sports,PS4,5.04,201.6
-FIFA 21,2020,Sports,EA,EA Sports,Xbox One,4.2,168
+Final Fantasy VII Remake,2020,RPG,Square Enix,Square Enix,PC,1.4,56
 Final Fantasy VII Remake,2020,RPG,Square Enix,Square Enix,PS4,3.5,140
 Final Fantasy VII Remake,2020,RPG,Square Enix,Square Enix,Xbox One,1.75,70
-Final Fantasy VII Remake,2020,RPG,Square Enix,Square Enix,PC,1.4,56
 Ghost of Tsushima,2020,Action-Adventure,Sony,Sucker Punch,PS4,4.3,172
-Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,Multi,2,80
+Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,Mobile,0.1,4
+Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,Nintendo Switch,0.2,8
+Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,PC,0.4,16
 Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,PS4,0.7,28
 Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,PS5,0.7,28
 Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,Xbox One,0.5,20
 Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,Xbox Series X,0.5,20
-Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,PC,0.4,16
-Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,Nintendo Switch,0.2,8
-Hades,2020,Action-RPG,Supergiant Games,Supergiant Games,Mobile,0.1,4
-Madden NFL 21,2020,Sports,EA,EA Tiburon,Multi,7.5,300
+Madden NFL 21,2020,Sports,EA,EA Tiburon,Mobile,0.4,15
+Madden NFL 21,2020,Sports,EA,EA Tiburon,Nintendo Switch,0.8,30
+Madden NFL 21,2020,Sports,EA,EA Tiburon,PC,1.5,60
 Madden NFL 21,2020,Sports,EA,EA Tiburon,PS4,2.6,105
 Madden NFL 21,2020,Sports,EA,EA Tiburon,PS5,2.6,105
 Madden NFL 21,2020,Sports,EA,EA Tiburon,Xbox One,1.9,75
 Madden NFL 21,2020,Sports,EA,EA Tiburon,Xbox Series X,1.9,75
-Madden NFL 21,2020,Sports,EA,EA Tiburon,PC,1.5,60
-Madden NFL 21,2020,Sports,EA,EA Tiburon,Nintendo Switch,0.8,30
-Madden NFL 21,2020,Sports,EA,EA Tiburon,Mobile,0.4,15
-Madden NFL 21,2020,Sports,EA,EA Tiburon,PS4,4.5,180
-Madden NFL 21,2020,Sports,EA,EA Tiburon,Xbox One,3.75,150
-NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Multi,6.2,248
+Mario Kart Live: Home Circuit,2020,Racing,Nintendo,Nintendo,Nintendo Switch,1.5,60
+NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.4
+NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,24.8
+NBA 2K21,2020,Sports,2K Sports,Visual Concepts,PC,1.2,49.6
 NBA 2K21,2020,Sports,2K Sports,Visual Concepts,PS4,2.2,86.8
 NBA 2K21,2020,Sports,2K Sports,Visual Concepts,PS5,2.2,86.8
 NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Xbox One,1.6,62
 NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Xbox Series X,1.6,62
-NBA 2K21,2020,Sports,2K Sports,Visual Concepts,PC,1.2,49.6
-NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,24.8
-NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.4
-NBA 2K21,2020,Sports,2K Sports,Visual Concepts,PS4,3.72,148.8
-NBA 2K21,2020,Sports,2K Sports,Visual Concepts,Xbox One,3.1,124
+Persona 4 Golden,2020,RPG,Atlus,Atlus,Nintendo Switch,3.1,123.1
+Persona 4 Golden,2020,RPG,Atlus,Atlus,PC,2.2,89.1
+Persona 4 Golden,2020,RPG,Atlus,Atlus,PS5,3,118.5
+Persona 4 Golden,2020,RPG,Atlus,Atlus,Xbox One,1,39.6
 The Last of Us Part II,2020,Action-Adventure,Sony,Naughty Dog,PS4,4,160
-Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Multi,9.8,392
+Under Night In-Birth,2020,Fighting,French-Bread,French-Bread,PS4,0.3,12
+Valorant,2020,Shooter,Riot Games,Riot Games,PC,5.2,208
+Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Mobile,0.5,19.6
+Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Nintendo Switch,1,39.2
+Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,PC,2,78.4
 Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,PS4,3.4,137.2
 Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,PS5,3.4,137.2
 Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Xbox One,2.5,98
 Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Xbox Series X,2.5,98
-Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,PC,2,78.4
-Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Nintendo Switch,1,39.2
-Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Mobile,0.5,19.6
-Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,PS4,5.88,235.2
-Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,Xbox One,4.9,196
-Call of Duty: Vanguard,2021,Shooter,Activision,Sledgehammer Games,PC,3.92,156.8
-Deathloop,2021,Action,Microsoft,Arkane Studios,Multi,2,80
+Deathloop,2021,Action,Microsoft,Arkane Studios,Mobile,0.1,4
+Deathloop,2021,Action,Microsoft,Arkane Studios,Nintendo Switch,0.2,8
+Deathloop,2021,Action,Microsoft,Arkane Studios,PC,0.4,16
 Deathloop,2021,Action,Microsoft,Arkane Studios,PS4,0.7,28
 Deathloop,2021,Action,Microsoft,Arkane Studios,PS5,0.7,28
 Deathloop,2021,Action,Microsoft,Arkane Studios,Xbox One,0.5,20
 Deathloop,2021,Action,Microsoft,Arkane Studios,Xbox Series X,0.5,20
-Deathloop,2021,Action,Microsoft,Arkane Studios,PC,0.4,16
-Deathloop,2021,Action,Microsoft,Arkane Studios,Nintendo Switch,0.2,8
-Deathloop,2021,Action,Microsoft,Arkane Studios,Mobile,0.1,4
-FIFA 22,2021,Sports,EA,EA Sports,Multi,8.6,344
+Evil Resident 8,2021,Horror,Capcom,Capcom,Nintendo Switch,2.8,110.5
+Evil Resident 8,2021,Horror,Capcom,Capcom,PC,2.4,97.1
+Evil Resident 8,2021,Horror,Capcom,Capcom,PS4,2.4,95.3
+Evil Resident 8,2021,Horror,Capcom,Capcom,Xbox One,3,118.5
+Evil Resident 8,2021,Horror,Capcom,Capcom,Xbox Series X,1.7,67.8
+FIFA 22,2021,Sports,EA,EA Sports,Mobile,0.4,17.2
+FIFA 22,2021,Sports,EA,EA Sports,Nintendo Switch,0.9,34.4
+FIFA 22,2021,Sports,EA,EA Sports,PC,1.7,68.8
 FIFA 22,2021,Sports,EA,EA Sports,PS4,3,120.4
 FIFA 22,2021,Sports,EA,EA Sports,PS5,3,120.4
 FIFA 22,2021,Sports,EA,EA Sports,Xbox One,2.1,86
 FIFA 22,2021,Sports,EA,EA Sports,Xbox Series X,2.1,86
-FIFA 22,2021,Sports,EA,EA Sports,PC,1.7,68.8
-FIFA 22,2021,Sports,EA,EA Sports,Nintendo Switch,0.9,34.4
-FIFA 22,2021,Sports,EA,EA Sports,Mobile,0.4,17.2
-FIFA 22,2021,Sports,EA,EA Sports,PS4,5.16,206.4
-FIFA 22,2021,Sports,EA,EA Sports,Xbox One,4.3,172
-Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Multi,2.8,112
+Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.1,5.6
+Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.3,11.2
+Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,PC,0.6,22.4
 Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,PS4,1,39.2
 Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,PS5,1,39.2
 Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Xbox One,0.7,28
 Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Xbox Series X,0.7,28
-Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,PC,0.6,22.4
-Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Nintendo Switch,0.3,11.2
-Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Mobile,0.1,5.6
-Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,PS4,1.68,67.2
-Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,Xbox One,1.4,56
-Far Cry 6,2021,Action-Adventure,Ubisoft,Ubisoft,PC,1.12,44.8
-Hitman 3,2021,Stealth,IO Interactive,IO Interactive,Multi,1.5,60
+Forza Horizon 5,2021,Racing,Microsoft,Playground Games,Mobile,0.3,13.5
+Forza Horizon 5,2021,Racing,Microsoft,Playground Games,Nintendo Switch,2.2,87.7
+Forza Horizon 5,2021,Racing,Microsoft,Playground Games,PS4,3.9,156
+Forza Horizon 5,2021,Racing,Microsoft,Playground Games,Xbox One,2.5,101.9
+Halo Infinite,2021,Shooter,Microsoft,343 Industries,Mobile,0.7,26.3
+Halo Infinite,2021,Shooter,Microsoft,343 Industries,PC,4.1,162.5
+Halo Infinite,2021,Shooter,Microsoft,343 Industries,Xbox One,1.6,64
+Hitman 3,2021,Stealth,IO Interactive,IO Interactive,Mobile,0.1,3
+Hitman 3,2021,Stealth,IO Interactive,IO Interactive,Nintendo Switch,0.2,6
+Hitman 3,2021,Stealth,IO Interactive,IO Interactive,PC,0.3,12
 Hitman 3,2021,Stealth,IO Interactive,IO Interactive,PS4,0.5,21
 Hitman 3,2021,Stealth,IO Interactive,IO Interactive,PS5,0.5,21
 Hitman 3,2021,Stealth,IO Interactive,IO Interactive,Xbox One,0.4,15
 Hitman 3,2021,Stealth,IO Interactive,IO Interactive,Xbox Series X,0.4,15
-Hitman 3,2021,Stealth,IO Interactive,IO Interactive,PC,0.3,12
-Hitman 3,2021,Stealth,IO Interactive,IO Interactive,Nintendo Switch,0.2,6
-Hitman 3,2021,Stealth,IO Interactive,IO Interactive,Mobile,0.1,3
-Madden NFL 22,2021,Sports,EA,EA Tiburon,Multi,7.7,308
+It Takes Two,2021,Action-Adventure,EA,Hazelight Studios,Mobile,2.3,91.9
+It Takes Two,2021,Action-Adventure,EA,Hazelight Studios,Nintendo Switch,2.8,111.6
+It Takes Two,2021,Action-Adventure,EA,Hazelight Studios,PC,4.2,166.4
+It Takes Two,2021,Action-Adventure,EA,Hazelight Studios,PS4,4.4,177.4
+It Takes Two,2021,Action-Adventure,EA,Hazelight Studios,PS5,2.8,111.3
+It Takes Two,2021,Action-Adventure,EA,Hazelight Studios,Xbox One,0.5,21.1
+Madden NFL 22,2021,Sports,EA,EA Tiburon,Mobile,0.4,15.4
+Madden NFL 22,2021,Sports,EA,EA Tiburon,Nintendo Switch,0.8,30.8
+Madden NFL 22,2021,Sports,EA,EA Tiburon,PC,1.5,61.6
 Madden NFL 22,2021,Sports,EA,EA Tiburon,PS4,2.7,107.8
 Madden NFL 22,2021,Sports,EA,EA Tiburon,PS5,2.7,107.8
 Madden NFL 22,2021,Sports,EA,EA Tiburon,Xbox One,1.9,77
 Madden NFL 22,2021,Sports,EA,EA Tiburon,Xbox Series X,1.9,77
-Madden NFL 22,2021,Sports,EA,EA Tiburon,PC,1.5,61.6
-Madden NFL 22,2021,Sports,EA,EA Tiburon,Nintendo Switch,0.8,30.8
-Madden NFL 22,2021,Sports,EA,EA Tiburon,Mobile,0.4,15.4
-Madden NFL 22,2021,Sports,EA,EA Tiburon,PS4,4.62,184.8
-Madden NFL 22,2021,Sports,EA,EA Tiburon,Xbox One,3.85,154
 Monster Hunter Rise,2021,Action-RPG,Capcom,Capcom,Switch,7.5,300
-NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Multi,6.4,256
+NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.8
+NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,25.6
+NBA 2K22,2021,Sports,2K Sports,Visual Concepts,PC,1.3,51.2
 NBA 2K22,2021,Sports,2K Sports,Visual Concepts,PS4,2.2,89.6
 NBA 2K22,2021,Sports,2K Sports,Visual Concepts,PS5,2.2,89.6
 NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Xbox One,1.6,64
 NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Xbox Series X,1.6,64
-NBA 2K22,2021,Sports,2K Sports,Visual Concepts,PC,1.3,51.2
-NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,25.6
-NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Mobile,0.3,12.8
-NBA 2K22,2021,Sports,2K Sports,Visual Concepts,PS4,3.84,153.6
-NBA 2K22,2021,Sports,2K Sports,Visual Concepts,Xbox One,3.2,128
+New Pokemon Snap,2021,Photography,Nintendo,Bandai Namco,Nintendo Switch,2.8,112
 Ratchet & Clank: Rift Apart,2021,Action-Adventure,Sony,Insomniac,PS5,1.1,44
-Resident Evil Village,2021,Horror,Capcom,Capcom,Multi,5.5,220
+Resident Evil Village,2021,Horror,Capcom,Capcom,Mobile,0.3,11
+Resident Evil Village,2021,Horror,Capcom,Capcom,Nintendo Switch,0.6,22
+Resident Evil Village,2021,Horror,Capcom,Capcom,PC,1.1,44
 Resident Evil Village,2021,Horror,Capcom,Capcom,PS4,1.9,77
 Resident Evil Village,2021,Horror,Capcom,Capcom,PS5,1.9,77
 Resident Evil Village,2021,Horror,Capcom,Capcom,Xbox One,1.4,55
 Resident Evil Village,2021,Horror,Capcom,Capcom,Xbox Series X,1.4,55
-Resident Evil Village,2021,Horror,Capcom,Capcom,PC,1.1,44
-Resident Evil Village,2021,Horror,Capcom,Capcom,Nintendo Switch,0.6,22
-Resident Evil Village,2021,Horror,Capcom,Capcom,Mobile,0.3,11
 Returnal,2021,Action,Sony,Housemarque,PS5,0.8,32
-Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Multi,11.5,460
+Scarlet Nexus,2021,Action-RPG,Bandai Namco,Bandai Namco,PS5,0.8,32
+Super Mario 3D World + Bowser's Fury,2021,Platformer,Nintendo,Nintendo,Nintendo Switch,2.1,84
+Bayonetta 3,2022,Action,Nintendo,Platinum Games,Nintendo Switch,0.9,36
+Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Mobile,0.6,23
+Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Nintendo Switch,1.2,46
+Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,PC,2.3,92
 Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,PS4,4,161
 Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,PS5,4,161
 Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Xbox One,2.9,115
 Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Xbox Series X,2.9,115
-Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,PC,2.3,92
-Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Nintendo Switch,1.2,46
-Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Mobile,0.6,23
-Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,PS4,6.9,276
-Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,Xbox One,5.75,230
-Call of Duty: Modern Warfare II,2022,Shooter,Activision,Infinity Ward,PC,4.6,184
-Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,Multi,17,680
+Dying Light 2,2022,Action-Adventure,Techland,Techland,Mobile,1.8,72.3
+Dying Light 2,2022,Action-Adventure,Techland,Techland,PC,2.2,86.5
+Dying Light 2,2022,Action-Adventure,Techland,Techland,PS4,3.2,128
+Dying Light 2,2022,Action-Adventure,Techland,Techland,PS5,3.5,140.2
+Dying Light 2,2022,Action-Adventure,Techland,Techland,Xbox One,2.1,82.7
+Dying Light 2,2022,Action-Adventure,Techland,Techland,Xbox Series X,4,161.9
+Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,Mobile,0.9,34
+Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,Nintendo Switch,1.7,68
+Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,PC,3.4,136
 Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,PS4,5.9,238
 Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,PS5,5.9,238
 Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,Xbox One,4.2,170
 Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,Xbox Series X,4.2,170
-Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,PC,3.4,136
-Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,Nintendo Switch,1.7,68
-Elden Ring,2022,Action-RPG,Bandai Namco,FromSoftware,Mobile,0.9,34
-FIFA 23,2022,Sports,EA,EA Sports,Multi,8.8,352
+FIFA 23,2022,Sports,EA,EA Sports,Mobile,0.4,17.6
+FIFA 23,2022,Sports,EA,EA Sports,Nintendo Switch,0.9,35.2
+FIFA 23,2022,Sports,EA,EA Sports,PC,1.8,70.4
 FIFA 23,2022,Sports,EA,EA Sports,PS4,3.1,123.2
 FIFA 23,2022,Sports,EA,EA Sports,PS5,3.1,123.2
 FIFA 23,2022,Sports,EA,EA Sports,Xbox One,2.2,88
 FIFA 23,2022,Sports,EA,EA Sports,Xbox Series X,2.2,88
-FIFA 23,2022,Sports,EA,EA Sports,PC,1.8,70.4
-FIFA 23,2022,Sports,EA,EA Sports,Nintendo Switch,0.9,35.2
-FIFA 23,2022,Sports,EA,EA Sports,Mobile,0.4,17.6
-FIFA 23,2022,Sports,EA,EA Sports,PS4,5.28,211.2
-FIFA 23,2022,Sports,EA,EA Sports,Xbox One,4.4,176
-Forspoken,2022,Action-RPG,Square Enix,Luminous Productions,PS5/PC,0.3,12
-Forspoken,2022,Action-RPG,Square Enix,Luminous Productions,PS4,0.18,7.2
-Forspoken,2022,Action-RPG,Square Enix,Luminous Productions,Xbox One,0.15,6
 Forspoken,2022,Action-RPG,Square Enix,Luminous Productions,PC,0.12,4.8
+Forspoken,2022,Action-RPG,Square Enix,Luminous Productions,PS4,0.18,7.2
+Forspoken,2022,Action-RPG,Square Enix,Luminous Productions,PS5/PC,0.3,12
+Forspoken,2022,Action-RPG,Square Enix,Luminous Productions,Xbox One,0.15,6
 Ghostwire Tokyo,2022,Action-Adventure,Microsoft,Tango Gameworks,PS5/PC,0.9,36
+God of War Ragnarök,2022,Action-Adventure,Sony,Santa Monica Studio,PS4,5.5,220
+God of War Ragnarök,2022,Action-Adventure,Sony,Santa Monica Studio,PS5,11,440
 God of War: Ragnarok,2022,Action-Adventure,Sony,Santa Monica Studios,PS5,11,440
+Gran Turismo 7,2022,Racing,Sony,Polyphony Digital,Mobile,0.5,18.1
+Gran Turismo 7,2022,Racing,Sony,Polyphony Digital,Nintendo Switch,2.7,109.5
+Gran Turismo 7,2022,Racing,Sony,Polyphony Digital,PC,1.6,63.4
+Gran Turismo 7,2022,Racing,Sony,Polyphony Digital,PS5,3.1,122.5
+Gran Turismo 7,2022,Racing,Sony,Polyphony Digital,Xbox One,2.8,112.5
+Gran Turismo 7,2022,Racing,Sony,Polyphony Digital,Xbox Series X,2.8,110.3
+Grounded,2022,Action-Adventure,Obsidian Entertainment,Obsidian Entertainment,PC,1.6,63
+Grounded,2022,Action-Adventure,Obsidian Entertainment,Obsidian Entertainment,PS5,1,38.9
+Grounded,2022,Action-Adventure,Obsidian Entertainment,Obsidian Entertainment,Xbox One,1.7,68.6
+Grounded,2022,Action-Adventure,Obsidian Entertainment,Obsidian Entertainment,Xbox Series X,3.4,134.8
 Kirby and the Forgotten Land,2022,Platformer,Nintendo,Nintendo,Switch,4.5,180
-Madden NFL 23,2022,Sports,EA,EA Tiburon,Multi,7.9,316
+Madden NFL 23,2022,Sports,EA,EA Tiburon,Mobile,0.4,15.8
+Madden NFL 23,2022,Sports,EA,EA Tiburon,Nintendo Switch,0.8,31.6
+Madden NFL 23,2022,Sports,EA,EA Tiburon,PC,1.6,63.2
 Madden NFL 23,2022,Sports,EA,EA Tiburon,PS4,2.8,110.6
 Madden NFL 23,2022,Sports,EA,EA Tiburon,PS5,2.8,110.6
 Madden NFL 23,2022,Sports,EA,EA Tiburon,Xbox One,2,79
 Madden NFL 23,2022,Sports,EA,EA Tiburon,Xbox Series X,2,79
-Madden NFL 23,2022,Sports,EA,EA Tiburon,PC,1.6,63.2
-Madden NFL 23,2022,Sports,EA,EA Tiburon,Nintendo Switch,0.8,31.6
-Madden NFL 23,2022,Sports,EA,EA Tiburon,Mobile,0.4,15.8
-Madden NFL 23,2022,Sports,EA,EA Tiburon,PS4,4.74,189.6
-Madden NFL 23,2022,Sports,EA,EA Tiburon,Xbox One,3.95,158
-NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Multi,6.5,260
+NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Mobile,0.3,13
+NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.7,26
+NBA 2K23,2022,Sports,2K Sports,Visual Concepts,PC,1.3,52
 NBA 2K23,2022,Sports,2K Sports,Visual Concepts,PS4,2.3,91
 NBA 2K23,2022,Sports,2K Sports,Visual Concepts,PS5,2.3,91
 NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Xbox One,1.6,65
 NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Xbox Series X,1.6,65
-NBA 2K23,2022,Sports,2K Sports,Visual Concepts,PC,1.3,52
-NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.7,26
-NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Mobile,0.3,13
-NBA 2K23,2022,Sports,2K Sports,Visual Concepts,PS4,3.9,156
-NBA 2K23,2022,Sports,2K Sports,Visual Concepts,Xbox One,3.25,130
 Pokemon Legends: Arceus,2022,RPG,Nintendo,Game Freak,Switch,6.3,252
-Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,Multi,1.2,48
+Splatoon 3,2022,Shooter,Nintendo,Nintendo,Nintendo Switch,3.5,140
+Uncharted: Legacy of Thieves,2022,Action-Adventure,Sony,Naughty Dog,Mobile,0.8,30.1
+Uncharted: Legacy of Thieves,2022,Action-Adventure,Sony,Naughty Dog,PC,2.3,92.3
+Uncharted: Legacy of Thieves,2022,Action-Adventure,Sony,Naughty Dog,PS4,3,120.3
+Uncharted: Legacy of Thieves,2022,Action-Adventure,Sony,Naughty Dog,PS5,1,38.3
+Uncharted: Legacy of Thieves,2022,Action-Adventure,Sony,Naughty Dog,Xbox One,2.3,93.8
+Uncharted: Legacy of Thieves,2022,Action-Adventure,Sony,Naughty Dog,Xbox Series X,4.2,166.8
+Xenoblade Chronicles 3,2022,Action-RPG,Nintendo,Monolith Soft,Nintendo Switch,2.5,100
+Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,Mobile,0.1,2.4
+Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,Nintendo Switch,0.1,4.8
+Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,PC,0.2,9.6
 Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,PS4,0.4,16.8
 Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,PS5,0.4,16.8
 Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,Xbox One,0.3,12
 Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,Xbox Series X,0.3,12
-Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,PC,0.2,9.6
-Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,Nintendo Switch,0.1,4.8
-Alan Wake 2,2023,Action-Adventure,Remedy,Remedy,Mobile,0.1,2.4
-Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,Multi,7.5,300
+Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,Mobile,0.4,15
+Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,Nintendo Switch,0.8,30
+Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,PC,1.5,60
 Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,PS4,2.6,105
 Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,PS5,2.6,105
 Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,Xbox One,1.9,75
 Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,Xbox Series X,1.9,75
-Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,PC,1.5,60
-Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,Nintendo Switch,0.8,30
-Baldur's Gate 3,2023,RPG,Larian Studios,Larian Studios,Mobile,0.4,15
-Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Multi,9.2,368
+Baldurs Gate 3,2023,RPG,Larian Studios,Larian Studios,PC,4,160
+Baldurs Gate 3,2023,RPG,Larian Studios,Larian Studios,PS5,6,240
+Baldurs Gate 3,2023,RPG,Larian Studios,Larian Studios,Xbox Series X,5,200
+Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Mobile,0.5,18.4
+Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Nintendo Switch,0.9,36.8
+Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,PC,1.8,73.6
 Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,PS4,3.2,128.8
 Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,PS5,3.2,128.8
 Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Xbox One,2.3,92
 Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Xbox Series X,2.3,92
-Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,PC,1.8,73.6
-Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Nintendo Switch,0.9,36.8
-Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Mobile,0.5,18.4
-Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,PS4,5.52,220.8
-Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,Xbox One,4.6,184
-Call of Duty: Modern Warfare III,2023,Shooter,Activision,Sledgehammer Games,PC,3.68,147.2
-Diablo IV,2023,Action-RPG,Blizzard,Blizzard,Multi,8.5,340
+Counter-Strike 2,2023,Shooter,Valve,Valve,PC,4.8,192
+Diablo IV,2023,Action-RPG,Blizzard,Blizzard,Mobile,0.4,17
+Diablo IV,2023,Action-RPG,Blizzard,Blizzard,Nintendo Switch,0.9,34
+Diablo IV,2023,Action-RPG,Blizzard,Blizzard,PC,1.7,68
 Diablo IV,2023,Action-RPG,Blizzard,Blizzard,PS4,3,119
 Diablo IV,2023,Action-RPG,Blizzard,Blizzard,PS5,3,119
 Diablo IV,2023,Action-RPG,Blizzard,Blizzard,Xbox One,2.1,85
 Diablo IV,2023,Action-RPG,Blizzard,Blizzard,Xbox Series X,2.1,85
-Diablo IV,2023,Action-RPG,Blizzard,Blizzard,PC,1.7,68
-Diablo IV,2023,Action-RPG,Blizzard,Blizzard,Nintendo Switch,0.9,34
-Diablo IV,2023,Action-RPG,Blizzard,Blizzard,Mobile,0.4,17
-Final Fantasy XVI,2023,RPG,Square Enix,Square Enix,PS5,3,120
-Final Fantasy XVI,2023,RPG,Square Enix,Square Enix,PS4,1.8,72
-Final Fantasy XVI,2023,RPG,Square Enix,Square Enix,Xbox One,1.5,60
 Final Fantasy XVI,2023,RPG,Square Enix,Square Enix,PC,1.2,48
-Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,Multi,12,480
+Final Fantasy XVI,2023,RPG,Square Enix,Square Enix,PS4,1.8,72
+Final Fantasy XVI,2023,RPG,Square Enix,Square Enix,PS5,3,120
+Final Fantasy XVI,2023,RPG,Square Enix,Square Enix,Xbox One,1.5,60
+Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,Mobile,0.6,24
+Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,Nintendo Switch,1.2,48
+Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,PC,2.4,96
 Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,PS4,4.2,168
 Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,PS5,4.2,168
 Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,Xbox One,3,120
 Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,Xbox Series X,3,120
-Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,PC,2.4,96
-Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,Nintendo Switch,1.2,48
-Hogwarts Legacy,2023,Action-RPG,WB Games,Avalanche Software,Mobile,0.6,24
+Metroid Prime Remastered,2023,Action-Adventure,Nintendo,Retro Studios,Nintendo Switch,1.8,72
+Mortal Kombat 1,2023,Fighting,WB Games,NetherRealm,Mobile,1.4,55.8
+Mortal Kombat 1,2023,Fighting,WB Games,NetherRealm,Nintendo Switch,0.8,32.6
+Mortal Kombat 1,2023,Fighting,WB Games,NetherRealm,PC,4.7,187.4
+Mortal Kombat 1,2023,Fighting,WB Games,NetherRealm,PS4,3.1,124.2
+Mortal Kombat 1,2023,Fighting,WB Games,NetherRealm,PS5,2.3,93.1
+Mortal Kombat 1,2023,Fighting,WB Games,NetherRealm,Xbox One,2.8,112.3
+Mortal Kombat 1,2023,Fighting,WB Games,NetherRealm,Xbox Series X,2.8,112.1
 Spider-Man 2,2023,Action-Adventure,Sony,Insomniac,PS5,5.5,220
+Starfield,2023,Action-RPG,Microsoft,Bethesda,Mobile,0.8,33.5
+Starfield,2023,Action-RPG,Microsoft,Bethesda,Nintendo Switch,4.8,191.8
+Starfield,2023,Action-RPG,Microsoft,Bethesda Game Studios,PC,4,160
 Starfield,2023,Action-RPG,Microsoft,Bethesda,PC/Xbox,6.8,272
-Street Fighter 6,2023,Fighting,Capcom,Capcom,Multi,2.5,100
+Starfield,2023,Action-RPG,Microsoft,Bethesda Game Studios,PC/Xbox Series X,9.5,380
+Starfield,2023,Action-RPG,Microsoft,Bethesda,PS4,1.3,51.5
+Starfield,2023,Action-RPG,Microsoft,Bethesda,PS5,4.3,170.7
+Starfield,2023,Action-RPG,Microsoft,Bethesda,Xbox One,2.8,113.7
+Starfield,2023,Action-RPG,Microsoft,Bethesda Game Studios,Xbox Series X,5,200
+Street Fighter 6,2023,Fighting,Capcom,Capcom,Mobile,0.1,5
+Street Fighter 6,2023,Fighting,Capcom,Capcom,Nintendo Switch,0.2,10
+Street Fighter 6,2023,Fighting,Capcom,Capcom,PC,0.5,20
 Street Fighter 6,2023,Fighting,Capcom,Capcom,PS4,0.9,35
 Street Fighter 6,2023,Fighting,Capcom,Capcom,PS5,0.9,35
 Street Fighter 6,2023,Fighting,Capcom,Capcom,Xbox One,0.6,25
 Street Fighter 6,2023,Fighting,Capcom,Capcom,Xbox Series X,0.6,25
-Street Fighter 6,2023,Fighting,Capcom,Capcom,PC,0.5,20
-Street Fighter 6,2023,Fighting,Capcom,Capcom,Nintendo Switch,0.2,10
-Street Fighter 6,2023,Fighting,Capcom,Capcom,Mobile,0.1,5
 Super Mario Bros Wonder,2023,Platformer,Nintendo,Nintendo,Switch,4,160
+The Last of Us Part I,2023,Action-Adventure,Sony,Naughty Dog,Mobile,2.5,99.9
+The Last of Us Part I,2023,Action-Adventure,Sony,Naughty Dog,Nintendo Switch,3,119.8
+The Last of Us Part I,2023,Action-Adventure,Sony,Naughty Dog,PC,0.5,21.7
+The Last of Us Part I,2023,Action-Adventure,Sony,Naughty Dog,PS5,4.4,175.1
+The Last of Us Part I,2023,Action-Adventure,Sony,Naughty Dog,Xbox One,2.9,115.6
 The Legend of Zelda: Tears of the Kingdom,2023,Action-Adventure,Nintendo,Nintendo,Switch,8.5,340
+Black Myth: Wukong,2024,Action-RPG,Game Science,Game Science,PC,4.5,180
 Black Myth: Wukong,2024,Action-RPG,Game Science,Game Science,PC/PS5,16,640
-Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Multi,10.8,432
+Black Myth: Wukong,2024,Action-RPG,Game Science,Game Science,PS5,5,200
+Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Mobile,0.5,21.6
+Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Nintendo Switch,1.1,43.2
+Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,PC,2.2,86.4
 Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,PS4,3.8,151.2
 Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,PS5,3.8,151.2
 Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Xbox One,2.7,108
 Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Xbox Series X,2.7,108
-Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,PC,2.2,86.4
-Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Nintendo Switch,1.1,43.2
-Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Mobile,0.5,21.6
-Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,PS4,6.48,259.2
-Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,Xbox One,5.4,216
-Call of Duty: Black Ops 6,2024,Shooter,Activision,Treyarch,PC,4.32,172.8
-Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Multi,4.5,180
+Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Mobile,0.2,9
+Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Nintendo Switch,0.5,18
+Dragon Age: The Veilguard,2024,RPG,EA,BioWare,PC,0.9,36
 Dragon Age: The Veilguard,2024,RPG,EA,BioWare,PS4,1.6,63
 Dragon Age: The Veilguard,2024,RPG,EA,BioWare,PS5,1.6,63
 Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Xbox One,1.1,45
 Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Xbox Series X,1.1,45
-Dragon Age: The Veilguard,2024,RPG,EA,BioWare,PC,0.9,36
-Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Nintendo Switch,0.5,18
-Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Mobile,0.2,9
-Dragon Age: The Veilguard,2024,RPG,EA,BioWare,PS4,2.7,108
-Dragon Age: The Veilguard,2024,RPG,EA,BioWare,Xbox One,2.25,90
-Dragon Age: The Veilguard,2024,RPG,EA,BioWare,PC,1.8,72
-Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,Multi,2.8,112
+Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,Mobile,0.1,5.6
+Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,Nintendo Switch,0.3,11.2
+Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,PC,0.6,22.4
 Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,PS4,1,39.2
 Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,PS5,1,39.2
 Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,Xbox One,0.7,28
 Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,Xbox Series X,0.7,28
-Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,PC,0.6,22.4
-Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,Nintendo Switch,0.3,11.2
-Dragon's Dogma 2,2024,Action-RPG,Capcom,Capcom,Mobile,0.1,5.6
-EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Multi,5.5,220
+EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Mobile,0.3,11
+EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Nintendo Switch,0.6,22
+EA Sports College Football 25,2024,Sports,EA,EA Tiburon,PC,1.1,44
 EA Sports College Football 25,2024,Sports,EA,EA Tiburon,PS4,1.9,77
 EA Sports College Football 25,2024,Sports,EA,EA Tiburon,PS5,1.9,77
 EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Xbox One,1.4,55
 EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Xbox Series X,1.4,55
-EA Sports College Football 25,2024,Sports,EA,EA Tiburon,PC,1.1,44
-EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Nintendo Switch,0.6,22
-EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Mobile,0.3,11
-EA Sports College Football 25,2024,Sports,EA,EA Tiburon,PS4,3.3,132
-EA Sports College Football 25,2024,Sports,EA,EA Tiburon,Xbox One,2.75,110
-Final Fantasy VII Rebirth,2024,RPG,Square Enix,Square Enix,PS5,5,200
-Final Fantasy VII Rebirth,2024,RPG,Square Enix,Square Enix,PS4,3,120
-Final Fantasy VII Rebirth,2024,RPG,Square Enix,Square Enix,Xbox One,2.5,100
 Final Fantasy VII Rebirth,2024,RPG,Square Enix,Square Enix,PC,2,80
+Final Fantasy VII Rebirth,2024,RPG,Square Enix,Square Enix,PS4,3,120
+Final Fantasy VII Rebirth,2024,RPG,Square Enix,Square Enix,PS5,5,200
+Final Fantasy VII Rebirth,2024,RPG,Square Enix,Square Enix,Xbox One,2.5,100
 Helldivers 2,2024,Shooter,Sony,Arrowhead,PS5/PC,12,480
-Madden NFL 25,2024,Sports,EA,EA Tiburon,Multi,6.2,248
+Indiana Jones and the Great Circle,2024,Action-Adventure,Microsoft,MachineGames,PC,3.2,128
+Indiana Jones and the Great Circle,2024,Action-Adventure,Microsoft,MachineGames,PC/Xbox Series X,8.3,332
+Indiana Jones and the Great Circle,2024,Action-Adventure,Microsoft,MachineGames,Xbox Series X,4,160
+Madden NFL 25,2024,Sports,EA,EA Tiburon,Mobile,0.3,12.4
+Madden NFL 25,2024,Sports,EA,EA Tiburon,Nintendo Switch,0.6,24.8
+Madden NFL 25,2024,Sports,EA,EA Tiburon,PC,1.2,49.6
 Madden NFL 25,2024,Sports,EA,EA Tiburon,PS4,2.2,86.8
 Madden NFL 25,2024,Sports,EA,EA Tiburon,PS5,2.2,86.8
 Madden NFL 25,2024,Sports,EA,EA Tiburon,Xbox One,1.6,62
 Madden NFL 25,2024,Sports,EA,EA Tiburon,Xbox Series X,1.6,62
-Madden NFL 25,2024,Sports,EA,EA Tiburon,PC,1.2,49.6
-Madden NFL 25,2024,Sports,EA,EA Tiburon,Nintendo Switch,0.6,24.8
-Madden NFL 25,2024,Sports,EA,EA Tiburon,Mobile,0.3,12.4
-Madden NFL 25,2024,Sports,EA,EA Tiburon,PS4,3.72,148.8
-Madden NFL 25,2024,Sports,EA,EA Tiburon,Xbox One,3.1,124
-NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Multi,6,240
+NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Mobile,0.3,12
+NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,24
+NBA 2K25,2024,Sports,2K Sports,Visual Concepts,PC,1.2,48
 NBA 2K25,2024,Sports,2K Sports,Visual Concepts,PS4,2.1,84
 NBA 2K25,2024,Sports,2K Sports,Visual Concepts,PS5,2.1,84
 NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Xbox One,1.5,60
 NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Xbox Series X,1.5,60
-NBA 2K25,2024,Sports,2K Sports,Visual Concepts,PC,1.2,48
-NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Nintendo Switch,0.6,24
-NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Mobile,0.3,12
-NBA 2K25,2024,Sports,2K Sports,Visual Concepts,PS4,3.6,144
-NBA 2K25,2024,Sports,2K Sports,Visual Concepts,Xbox One,3,120
 Palworld,2024,Action-RPG,Pocket Pair,Pocket Pair,PC/Xbox,8,320
-Dota 2,2013,MOBA,Valve,Valve,PC,8.5,340
-League of Legends,2013,MOBA,Riot Games,Riot Games,PC,7.3,292
-Valorant,2020,Shooter,Riot Games,Riot Games,PC,5.2,208
-Counter-Strike 2,2023,Shooter,Valve,Valve,PC,4.8,192
-Apex Legends,2019,Battle Royale,EA,Respawn,PC,4.5,180
-Apex Legends,2019,Battle Royale,EA,Respawn,PS4,3.2,128
-Apex Legends,2019,Battle Royale,EA,Respawn,Xbox One,2.8,112
-Splatoon 3,2022,Shooter,Nintendo,Nintendo,Nintendo Switch,3.5,140
-Fire Emblem: Three Houses,2019,Strategy-RPG,Nintendo,Intelligent Systems,Nintendo Switch,3.2,128
-Metroid Prime Remastered,2023,Action-Adventure,Nintendo,Retro Studios,Nintendo Switch,1.8,72
-Xenoblade Chronicles 3,2022,Action-RPG,Nintendo,Monolith Soft,Nintendo Switch,2.5,100
-Bayonetta 3,2022,Action,Nintendo,Platinum Games,Nintendo Switch,0.9,36
-Zelda: Phantom Hourglass,2017,Action-Adventure,Nintendo,Nintendo,Nintendo Switch,1.2,48
-Donkey Kong Country: Tropical Freeze,2018,Platformer,Nintendo,Rare,Nintendo Switch,1.8,72
-Super Mario 3D World + Bowser's Fury,2021,Platformer,Nintendo,Nintendo,Nintendo Switch,2.1,84
-Mario Kart Live: Home Circuit,2020,Racing,Nintendo,Nintendo,Nintendo Switch,1.5,60
-New Pokemon Snap,2021,Photography,Nintendo,Bandai Namco,Nintendo Switch,2.8,112
-Scarlet Nexus,2021,Action-RPG,Bandai Namco,Bandai Namco,PS5,0.8,32
-Tales of Arise,2021,RPG,Bandai Namco,Bandai Namco,Multi,1.2,48
-Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,PS5,0.9,36
-Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,Xbox Series X,0.8,32
-Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,PC,1.2,48
-Granblue Fantasy Versus,2019,Fighting,Cygames,Arc System Works,PS4,0.5,20
-BlazBlue Cross Tag Battle,2018,Fighting,Arc System Works,Arc System Works,Nintendo Switch,0.4,16
-Under Night In-Birth,2020,Fighting,French-Bread,French-Bread,PS4,0.3,12
-Dragon Ball FighterZ,2018,Fighting,Bandai Namco,Arc System Works,Multi,2.5,100
-Marvel vs Capcom 3,2018,Fighting,Capcom,Capcom,PS4,1.8,72
-Black Myth: Wukong,2024,Action-RPG,Game Science,Game Science,Multi,12.5,500
-Black Myth: Wukong,2024,Action-RPG,Game Science,Game Science,PS5,5,200
-Black Myth: Wukong,2024,Action-RPG,Game Science,Game Science,PC,4.5,180
-Indiana Jones and the Great Circle,2024,Action-Adventure,Microsoft,MachineGames,PC/Xbox Series X,8.3,332
-Indiana Jones and the Great Circle,2024,Action-Adventure,Microsoft,MachineGames,Xbox Series X,4,160
-Indiana Jones and the Great Circle,2024,Action-Adventure,Microsoft,MachineGames,PC,3.2,128
-Silent Hill 2 Remake,2024,Horror,Konami,Bloober Team,Multi,6.2,248
-Silent Hill 2 Remake,2024,Horror,Konami,Bloober Team,PS5,3.1,124
-Silent Hill 2 Remake,2024,Horror,Konami,Bloober Team,PC,2.4,96
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024,Action-RPG,GSC Game World,GSC Game World,PC,3.1,124
 S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024,Action-RPG,GSC Game World,GSC Game World,PC/Xbox Series X,7.8,312
 S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024,Action-RPG,GSC Game World,GSC Game World,Xbox Series X,4,160
-S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024,Action-RPG,GSC Game World,GSC Game World,PC,3.1,124
-Baldurs Gate 3,2023,RPG,Larian Studios,Larian Studios,Multi,15,600
-Baldurs Gate 3,2023,RPG,Larian Studios,Larian Studios,PS5,6,240
-Baldurs Gate 3,2023,RPG,Larian Studios,Larian Studios,Xbox Series X,5,200
-Baldurs Gate 3,2023,RPG,Larian Studios,Larian Studios,PC,4,160
-Hogwarts Legacy,2023,Action-RPG,Avalanche Software,Avalanche Software,Multi,12,480
-Hogwarts Legacy,2023,Action-RPG,Avalanche Software,Avalanche Software,PS5,4.8,192
-Hogwarts Legacy,2023,Action-RPG,Avalanche Software,Avalanche Software,Xbox Series X,3.6,144
-Hogwarts Legacy,2023,Action-RPG,Avalanche Software,Avalanche Software,PC,2.4,96
-Spider-Man 2,2023,Action-Adventure,Sony,Insomniac Games,PS5,10,400
-Alan Wake 2,2023,Action-Horror,Remedy Entertainment,Remedy Entertainment,Multi,5.5,220
-Alan Wake 2,2023,Action-Horror,Remedy Entertainment,Remedy Entertainment,PS5,2.2,88
-Alan Wake 2,2023,Action-Horror,Remedy Entertainment,Remedy Entertainment,Xbox Series X,1.8,72
-Alan Wake 2,2023,Action-Horror,Remedy Entertainment,Remedy Entertainment,PC,1.5,60
-Elden Ring,2022,Action-RPG,FromSoftware,FromSoftware,Multi,17,680
-Elden Ring,2022,Action-RPG,FromSoftware,FromSoftware,PS5,6.8,272
-Elden Ring,2022,Action-RPG,FromSoftware,FromSoftware,Xbox Series X,5.1,204
-Elden Ring,2022,Action-RPG,FromSoftware,FromSoftware,PC,3.4,136
-God of War Ragnarök,2022,Action-Adventure,Sony,Santa Monica Studio,PS5,11,440
-God of War Ragnarök,2022,Action-Adventure,Sony,Santa Monica Studio,PS4,5.5,220
-Starfield,2023,Action-RPG,Microsoft,Bethesda Game Studios,PC/Xbox Series X,9.5,380
-Starfield,2023,Action-RPG,Microsoft,Bethesda Game Studios,Xbox Series X,5,200
-Starfield,2023,Action-RPG,Microsoft,Bethesda Game Studios,PC,4,160
-Dragon Age: The Veilguard,2024,Action-RPG,Electronic Arts,BioWare,Multi,8,320
-Dragon Age: The Veilguard,2024,Action-RPG,Electronic Arts,BioWare,PS5,3.2,128
-Dragon Age: The Veilguard,2024,Action-RPG,Electronic Arts,BioWare,Xbox Series X,2.6,104
-Dragon Age: The Veilguard,2024,Action-RPG,Electronic Arts,BioWare,PC,2.2,88
+Silent Hill 2 Remake,2024,Horror,Konami,Bloober Team,PC,2.4,96
+Silent Hill 2 Remake,2024,Horror,Konami,Bloober Team,PS5,3.1,124
+Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,Nintendo Switch,0.8,31.6
+Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,PC,1.2,48
+Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,PS5,0.9,36
+Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,Xbox One,4.4,174.6
+Tekken 8,2024,Fighting,Bandai Namco,Bandai Namco,Xbox Series X,0.8,32
+Apex Legends 2,2025,Shooter,EA,Respawn Entertainment,Mobile,6.8,272.9
+Apex Legends 2,2025,Shooter,EA,Respawn Entertainment,Nintendo Switch,1,41.2
+Apex Legends 2,2025,Shooter,EA,Respawn Entertainment,Xbox Series X,5.1,205.3
+Baldur's Gate 4,2025,RPG,Larian Studios,Larian Studios,Mobile,3.5,138.5
+Baldur's Gate 4,2025,RPG,Larian Studios,Larian Studios,PC,4.6,184.6
+Baldur's Gate 4,2025,RPG,Larian Studios,Larian Studios,PS5,4.3,170.4
+Call of Duty 2025,2025,Shooter,Activision,Sledgehammer Games,Mobile,3.5,139.4
+Call of Duty 2025,2025,Shooter,Activision,Sledgehammer Games,Nintendo Switch,1.2,49.8
+Call of Duty 2025,2025,Shooter,Activision,Sledgehammer Games,PC,3.5,140.5
+Call of Duty 2025,2025,Shooter,Activision,Sledgehammer Games,Xbox Series X,2.2,87.5
+Destiny 3,2025,Shooter,Bungie,Bungie,Mobile,7.4,297.8
+Destiny 3,2025,Shooter,Bungie,Bungie,Nintendo Switch,3.6,142.3
+Destiny 3,2025,Shooter,Bungie,Bungie,PC,7.8,313.1
+Destiny 3,2025,Shooter,Bungie,Bungie,PS5,1.4,55.8
+Destiny 3,2025,Shooter,Bungie,Bungie,Xbox Series X,3.3,130.5
+Dragon Age: The Veilguard II,2025,RPG,EA,BioWare,Mobile,2.6,104.1
+Dragon Age: The Veilguard II,2025,RPG,EA,BioWare,PC,1.2,47.4
+Dragon Age: The Veilguard II,2025,RPG,EA,BioWare,Xbox Series X,7.9,317.7
+Dragon's Dogma 3,2025,Action-RPG,Capcom,Capcom,Mobile,7.5,298.4
+Dragon's Dogma 3,2025,Action-RPG,Capcom,Capcom,Nintendo Switch,3.3,133.1
+Dragon's Dogma 3,2025,Action-RPG,Capcom,Capcom,PC,5,201.3
+Dragon's Dogma 3,2025,Action-RPG,Capcom,Capcom,Xbox Series X,7.1,282.3
+EA Sports FC 26,2025,Sports,EA,EA Sports,PC,3.4,135.1
+EA Sports FC 26,2025,Sports,EA,EA Sports,PS4,1.2,47.6
+EA Sports FC 26,2025,Sports,EA,EA Sports,PS5,2.6,103.1
+EA Sports FC 26,2025,Sports,EA,EA Sports,Xbox One,3.9,155
+EA Sports FC 26,2025,Sports,EA,EA Sports,Xbox Series X,2.1,83.9
+Elden Ring 2,2025,Action-RPG,Bandai Namco,FromSoftware,Nintendo Switch,1.9,77.7
+Elden Ring 2,2025,Action-RPG,Bandai Namco,FromSoftware,PC,6.5,259.8
+Elden Ring 2,2025,Action-RPG,Bandai Namco,FromSoftware,PS5,5.5,220.6
+Final Fantasy VII Rebirth,2025,RPG,Square Enix,Square Enix,Nintendo Switch,8,318.4
+Final Fantasy VII Rebirth,2025,RPG,Square Enix,Square Enix,PS5,1.6,63.9
+Final Fantasy VII Rebirth,2025,RPG,Square Enix,Square Enix,Xbox Series X,5.6,225.3
+Final Fantasy XXXII,2025,RPG,Square Enix,Square Enix,Mobile,1.5,58.1
+Final Fantasy XXXII,2025,RPG,Square Enix,Square Enix,Nintendo Switch,9.4,374.9
+Final Fantasy XXXII,2025,RPG,Square Enix,Square Enix,PC,6.3,250.1
+Final Fantasy XXXII,2025,RPG,Square Enix,Square Enix,PS5,6.8,271.4
+Forza Horizon 7,2025,Racing,Microsoft,Playground Games,PC,5.3,211
+Forza Horizon 7,2025,Racing,Microsoft,Playground Games,Xbox One,2.3,91.2
+Forza Horizon 7,2025,Racing,Microsoft,Playground Games,Xbox Series X,5,199
+Forza Motorsport 10,2025,Racing,Microsoft,Turn 10,PC,6.7,269.6
+Forza Motorsport 10,2025,Racing,Microsoft,Turn 10,Xbox One,2,78.5
+Forza Motorsport 10,2025,Racing,Microsoft,Turn 10,Xbox Series X,2.4,94.6
+Gears of War 6,2025,Shooter,Microsoft,The Coalition,PC,5.2,206.9
+Gears of War 6,2025,Shooter,Microsoft,The Coalition,Xbox One,5.8,230
+Gears of War 6,2025,Shooter,Microsoft,The Coalition,Xbox Series X,1.4,55.6
+God of War Ragnarok II,2025,Action-Adventure,Sony,Santa Monica Studios,PS4,2.2,89.4
+God of War Ragnarok II,2025,Action-Adventure,Sony,Santa Monica Studios,PS5,7,278.1
+Gran Turismo 8,2025,Racing,Sony,Polyphony Digital,PS4,3.1,124
+Gran Turismo 8,2025,Racing,Sony,Polyphony Digital,PS5,5.3,211.4
+Grand Theft Auto VI,2025,Action-Adventure,Rockstar Games,Rockstar Games,Nintendo Switch,10.8,433.6
+Grand Theft Auto VI,2025,Action-Adventure,Rockstar Games,Rockstar Games,PC,6.2,248.5
+Grand Theft Auto VI,2025,Action-Adventure,Rockstar Games,Rockstar Games,PS5,11.5,460.1
+Halo 7,2025,Shooter,Microsoft,343 Industries,PC,4,161.4
+Halo 7,2025,Shooter,Microsoft,343 Industries,Xbox One,6.5,258.7
+Halo 7,2025,Shooter,Microsoft,343 Industries,Xbox Series X,4.4,174.4
+Hogwarts Legacy 2,2025,Action-RPG,WB Games,Avalanche Software,Nintendo Switch,4.1,162.6
+Hogwarts Legacy 2,2025,Action-RPG,WB Games,Avalanche Software,PC,6.1,242.7
+Hogwarts Legacy 2,2025,Action-RPG,WB Games,Avalanche Software,Xbox Series X,7.8,311.9
+Madden NFL 26,2025,Sports,EA,EA Tiburon,PC,7.6,303.9
+Madden NFL 26,2025,Sports,EA,EA Tiburon,PS4,1.4,54.9
+Madden NFL 26,2025,Sports,EA,EA Tiburon,PS5,5,198.7
+Madden NFL 26,2025,Sports,EA,EA Tiburon,Xbox One,6.1,242.8
+Madden NFL 26,2025,Sports,EA,EA Tiburon,Xbox Series X,5.7,229.7
+Marvel vs. Capcom 4,2025,Fighting,Capcom,Capcom,Nintendo Switch,1.5,59.2
+Marvel vs. Capcom 4,2025,Fighting,Capcom,Capcom,PC,6.8,273.2
+Marvel vs. Capcom 4,2025,Fighting,Capcom,Capcom,PS5,7.6,304.1
+Mass Effect 4,2025,RPG,EA,BioWare,Mobile,6.6,263.7
+Mass Effect 4,2025,RPG,EA,BioWare,Nintendo Switch,7.2,288.6
+Mass Effect 4,2025,RPG,EA,BioWare,PC,4.2,166.7
+Mass Effect 4,2025,RPG,EA,BioWare,Xbox Series X,6,240.1
+Monster Hunter Wilds,2025,Action-RPG,Capcom,Capcom,Mobile,3.4,135.7
+Monster Hunter Wilds,2025,Action-RPG,Capcom,Capcom,Nintendo Switch,7,278.8
+Monster Hunter Wilds,2025,Action-RPG,Capcom,Capcom,Xbox Series X,6.1,242.6
+Mortal Kombat 12,2025,Fighting,WB Games,NetherRealm,Mobile,7.9,317.7
+Mortal Kombat 12,2025,Fighting,WB Games,NetherRealm,Nintendo Switch,2.9,117.5
+Mortal Kombat 12,2025,Fighting,WB Games,NetherRealm,PC,3.8,153.5
+Mortal Kombat 12,2025,Fighting,WB Games,NetherRealm,PS5,4.4,175.1
+NBA 2K26,2025,Sports,2K Sports,Visual Concepts,PC,5.3,211.3
+NBA 2K26,2025,Sports,2K Sports,Visual Concepts,PS4,8.5,339.9
+NBA 2K26,2025,Sports,2K Sports,Visual Concepts,PS5,3.5,138.8
+NBA 2K26,2025,Sports,2K Sports,Visual Concepts,Xbox One,6.3,251.1
+NBA 2K26,2025,Sports,2K Sports,Visual Concepts,Xbox Series X,2.4,96.1
+NHL 26,2025,Sports,EA,EA Sports,PC,6,241.9
+NHL 26,2025,Sports,EA,EA Sports,PS4,7.1,284.1
+NHL 26,2025,Sports,EA,EA Sports,PS5,4.1,162.2
+NHL 26,2025,Sports,EA,EA Sports,Xbox One,2.7,108.6
+NHL 26,2025,Sports,EA,EA Sports,Xbox Series X,6.7,268.5
+Need for Speed 2025,2025,Racing,EA,Ghost Games,Mobile,5.7,227.4
+Need for Speed 2025,2025,Racing,EA,Ghost Games,PC,2.4,94.4
+Need for Speed 2025,2025,Racing,EA,Ghost Games,Xbox Series X,7.2,289.4
+Overwatch 3,2025,Shooter,Blizzard,Blizzard,Nintendo Switch,7.8,311.3
+Overwatch 3,2025,Shooter,Blizzard,Blizzard,PS5,6.6,263.3
+Overwatch 3,2025,Shooter,Blizzard,Blizzard,Xbox Series X,4.8,193.6
+Persona 6,2025,RPG,Atlus,Atlus,Nintendo Switch,1.2,48.8
+Persona 6,2025,RPG,Atlus,Atlus,PC,7.5,301.8
+Persona 6,2025,RPG,Atlus,Atlus,PS5,4.4,176.5
+Persona 6,2025,RPG,Atlus,Atlus,Xbox Series X,6.8,271.4
+Spider-Man 4,2025,Action-Adventure,Sony,Insomniac Games,PS4,5.7,229.6
+Spider-Man 4,2025,Action-Adventure,Sony,Insomniac Games,PS5,1.7,66.2
+Starfield 2,2025,Action-RPG,Microsoft,Bethesda,PC,7.4,297.6
+Starfield 2,2025,Action-RPG,Microsoft,Bethesda,Xbox One,1.7,68.8
+Starfield 2,2025,Action-RPG,Microsoft,Bethesda,Xbox Series X,7.3,290.9
+Street Fighter 7,2025,Fighting,Capcom,Capcom,Mobile,2.5,100.2
+Street Fighter 7,2025,Fighting,Capcom,Capcom,PC,1.2,50
+Street Fighter 7,2025,Fighting,Capcom,Capcom,PS5,7.9,317.4
+Street Fighter 7,2025,Fighting,Capcom,Capcom,Xbox Series X,3.3,131.5
+Tekken 9,2025,Fighting,Bandai Namco,Bandai Namco,Mobile,2.9,114.7
+Tekken 9,2025,Fighting,Bandai Namco,Bandai Namco,Nintendo Switch,6.1,243.1
+Tekken 9,2025,Fighting,Bandai Namco,Bandai Namco,PS5,6.3,250.6
+Tekken 9,2025,Fighting,Bandai Namco,Bandai Namco,Xbox Series X,4.8,191.7
+The Elder Scrolls VI: Redguard,2025,RPG,Bethesda,Bethesda Game Studios,Mobile,4.7,186.4
+The Elder Scrolls VI: Redguard,2025,RPG,Bethesda,Bethesda Game Studios,Nintendo Switch,6.2,248.9
+The Elder Scrolls VI: Redguard,2025,RPG,Bethesda,Bethesda Game Studios,PC,7.3,293.9
+The Elder Scrolls VI: Redguard,2025,RPG,Bethesda,Bethesda Game Studios,PS5,5.4,215.5
+The Elder Scrolls VI: Redguard,2025,RPG,Bethesda,Bethesda Game Studios,Xbox Series X,1.8,72
+The Witcher 4,2025,RPG,CD Projekt,CD Projekt Red,Nintendo Switch,4.6,182.5
+The Witcher 4,2025,RPG,CD Projekt,CD Projekt Red,PC,3.1,123.1
+The Witcher 4,2025,RPG,CD Projekt,CD Projekt Red,PS5,1.2,48.7
+The Witcher 4,2025,RPG,CD Projekt,CD Projekt Red,Xbox Series X,5.9,237.2
+Uncharted 5,2025,Action-Adventure,Sony,Naughty Dog,PS4,6.3,251.9
+Uncharted 5,2025,Action-Adventure,Sony,Naughty Dog,PS5,5.7,229.8
+WWE 2K26,2025,Sports,2K Sports,Visual Concepts,PC,2,81.5
+WWE 2K26,2025,Sports,2K Sports,Visual Concepts,PS4,4,160.5
+WWE 2K26,2025,Sports,2K Sports,Visual Concepts,PS5,3.4,134.5
+WWE 2K26,2025,Sports,2K Sports,Visual Concepts,Xbox One,7.2,289.4
+WWE 2K26,2025,Sports,2K Sports,Visual Concepts,Xbox Series X,2.2,88.4
+Zelda: Echoes of Wisdom,2025,Action-Adventure,Nintendo,Nintendo,Nintendo Switch,2.1,83
