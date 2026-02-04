@@ -1,111 +1,117 @@
-CREATE DATABASE `Parks_and_Recreation`;
-USE `Parks_and_Recreation`;
+create database games;
+use games;
+
+show tables;
+select * from games;
+
+SELECT COUNT(*) AS total_rows
+FROM games;
+
+### null value find each Column
+SELECT
+    COUNT(*) - COUNT(Name) AS Name_nulls,
+    COUNT(*) - COUNT(Year) AS Year_nulls,
+    COUNT(*) - COUNT(Genre) AS Genre_nulls,
+    COUNT(*) - COUNT(Publisher) AS Publisher_nulls,
+    COUNT(*) - COUNT(Developer) AS Developer_nulls,
+    COUNT(*) - COUNT(Platform) AS Platform_nulls,
+    COUNT(*) - COUNT(Units) AS Units_nulls,
+    COUNT(*) - COUNT(Revenue_USD_M) AS Revenue_nulls
+FROM games;
 
 
-CREATE TABLE employee_demographics (
-  employee_id INT NOT NULL,
-  first_name VARCHAR(50),
-  last_name VARCHAR(50),
-  age INT,
-  gender VARCHAR(10),
-  birth_date DATE,
-  PRIMARY KEY (employee_id)
-);
 
-CREATE TABLE employee_salary (
-  employee_id INT NOT NULL,
-  first_name VARCHAR(50) NOT NULL,
-  last_name VARCHAR(50) NOT NULL,
-  occupation VARCHAR(50),
-  salary INT,
-  dept_id INT
-);
+### Total Revenue Generated
+SELECT 
+    SUM(Revenue_USD_M) AS total_revenue_million_usd
+FROM games;
 
-CREATE TABLE parks_departments (
-  department_id INT NOT NULL AUTO_INCREMENT,
-  department_name varchar(50) NOT NULL,
-  PRIMARY KEY (department_id)
-);
+### Top 10 Best-Selling Games (by Units)
+SELECT 
+    Name,
+    SUM(Units) AS total_units_sold
+FROM games
+GROUP BY Name
+ORDER BY total_units_sold DESC
+LIMIT 10;
+
+### Revenue by Genre
+SELECT 
+    Genre,
+    SUM(Revenue_USD_M) AS total_revenue
+FROM games
+GROUP BY Genre
+ORDER BY total_revenue DESC;
+
+### Top Publishers by Revenue
+SELECT 
+    Publisher,
+    SUM(Revenue_USD_M) AS revenue
+FROM games
+GROUP BY Publisher
+ORDER BY revenue DESC
+LIMIT 5;
+
+### Platform Performance (Units Sold)
+SELECT 
+    Platform,
+    SUM(Units) AS total_units
+FROM games
+GROUP BY Platform
+ORDER BY total_units DESC;
+
+### Year-Wise Revenue Trend
+SELECT 
+    Year,
+    SUM(Revenue_USD_M) AS yearly_revenue
+FROM games
+GROUP BY Year
+ORDER BY Year;
+
+### Most Profitable Game per Year
+SELECT 
+    Year,
+    Name,
+    SUM(Revenue_USD_M) AS revenue
+FROM games
+GROUP BY Year, Name
+ORDER BY Year, revenue DESC;
+
+### Average Revenue per Game by Genre
+SELECT 
+    Genre,
+    AVG(Revenue_USD_M) AS avg_revenue
+FROM games
+GROUP BY Genre
+ORDER BY avg_revenue DESC;
+
+### Games Released on Multiple Platforms
+SELECT 
+    Name,
+    COUNT(DISTINCT Platform) AS platform_count
+FROM games
+GROUP BY Name
+HAVING COUNT(DISTINCT Platform) > 1
+ORDER BY platform_count DESC;
+
+### Top Developer by Total Revenue
+SELECT 
+    Developer,
+    SUM(Revenue_USD_M) AS total_revenue
+FROM games
+GROUP BY Developer
+ORDER BY total_revenue DESC
+LIMIT 1;
+
+### Rank Games by Revenue Within Each Year
+SELECT 
+    Year,
+    Name,
+    Revenue_USD_M,
+    RANK() OVER (PARTITION BY Year ORDER BY Revenue_USD_M DESC) AS revenue_rank
+FROM games;
 
 
-INSERT INTO employee_demographics (employee_id, first_name, last_name, age, gender, birth_date)
-VALUES
-(1,'Leslie', 'Knope', 44, 'Female','1979-09-25'),
-(3,'Tom', 'Haverford', 36, 'Male', '1987-03-04'),
-(4, 'April', 'Ludgate', 29, 'Female', '1994-03-27'),
-(5, 'Jerry', 'Gergich', 61, 'Male', '1962-08-28'),
-(6, 'Donna', 'Meagle', 46, 'Female', '1977-07-30'),
-(7, 'Ann', 'Perkins', 35, 'Female', '1988-12-01'),
-(8, 'Chris', 'Traeger', 43, 'Male', '1980-11-11'),
-(9, 'Ben', 'Wyatt', 38, 'Male', '1985-07-26'),
-(10, 'Andy', 'Dwyer', 34, 'Male', '1989-03-25'),
-(11, 'Mark', 'Brendanawicz', 40, 'Male', '1983-06-14'),
-(12, 'Craig', 'Middlebrooks', 37, 'Male', '1986-07-27');
-
-
-INSERT INTO employee_salary (employee_id, first_name, last_name, occupation, salary, dept_id)
-VALUES
-(1, 'Leslie', 'Knope', 'Deputy Director of Parks and Recreation', 75000,1),
-(2, 'Ron', 'Swanson', 'Director of Parks and Recreation', 70000,1),
-(3, 'Tom', 'Haverford', 'Entrepreneur', 50000,1),
-(4, 'April', 'Ludgate', 'Assistant to the Director of Parks and Recreation', 25000,1),
-(5, 'Jerry', 'Gergich', 'Office Manager', 50000,1),
-(6, 'Donna', 'Meagle', 'Office Manager', 60000,1),
-(7, 'Ann', 'Perkins', 'Nurse', 55000,4),
-(8, 'Chris', 'Traeger', 'City Manager', 90000,3),
-(9, 'Ben', 'Wyatt', 'State Auditor', 70000,6),
-(10, 'Andy', 'Dwyer', 'Shoe Shiner and Musician', 20000, NULL),
-(11, 'Mark', 'Brendanawicz', 'City Planner', 57000, 3),
-(12, 'Craig', 'Middlebrooks', 'Parks Director', 65000,1);
-
-
-INSERT INTO parks_departments (department_name)
-VALUES
-('Parks and Recreation'),
-('Animal Control'),
-('Public Works'),
-('Healthcare'),
-('Library'),
-('Finance');
-
-###select clause
-
-select * from employee_demographics;
-
-select first_name from employee_demographics;
-
-select first_name,last_name,salary,salary+100 as new_salary from employee_salary;
-
-SELECT distinct dept_id FROM employee_salary;
-
-###where clause
-
-select * from employee_salary where salary >50000;
-
-select * from employee_demographics where gender != 'female';
-
-select * from employee_demographics where birth_date > '1979-09-25';
-
-select * from employee_demographics where first_name like '__a%';
-
-###Group by & Order by
-
-select gender,count(gender) as Gender_count from employee_demographics group by gender;
-
-SELECT occupation, salary FROM employee_salary GROUP BY occupation, salary;
-
-select gender,age from employee_demographics where gender ='female' order by gender desc,age desc;
-
-select gender,age from employee_demographics where gender ='female' ;
-
-###where or having
-
-SELECT gender, AVG(age)
-FROM employee_demographics
-WHERE age > 40
-GROUP BY gender;
-
-select gender, avg(age) from employee_demographics group by gender having AVG(age) >40;
 
 
 
